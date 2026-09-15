@@ -1,0 +1,704 @@
+[
+  {
+    "id": "amazon",
+    "name": "Amazon / AWS",
+    "category": "Operator",
+    "aliases": [
+      "AMAZON",
+      "AMAZONCOM",
+      "AMAZON WEB SERVICES"
+    ],
+    "url": "https://www.amazoninnovationinpa.com/falls-township-innovation-campus/",
+    "title": "Falls Township Innovation Campus",
+    "claim": "Amazon describes its proposed data-center campus in Falls Township and collaboration with NorthPoint Development.",
+    "evidence_date": "",
+    "accessed": "2026-09-15",
+    "geography": "Pennsylvania",
+    "status": "Documented organization connection"
+  },
+  {
+    "id": "northpoint",
+    "name": "NorthPoint Development",
+    "category": "Developer / land",
+    "aliases": [
+      "NORTHPOINT DEVELOPMENT"
+    ],
+    "url": "https://www.amazoninnovationinpa.com/falls-township-innovation-campus/",
+    "title": "Falls Township Innovation Campus",
+    "claim": "Amazon identifies NorthPoint Development as its partner in local planning and project information for the Falls Township campus.",
+    "evidence_date": "",
+    "accessed": "2026-09-15",
+    "geography": "Pennsylvania",
+    "status": "Documented organization connection"
+  },
+  {
+    "id": "talen",
+    "name": "Talen Energy",
+    "category": "Power supplier",
+    "aliases": [
+      "TALEN ENERGY"
+    ],
+    "url": "https://ir.talenenergy.com/news-releases/news-release-details/talen-energy-expands-nuclear-energy-relationship-amazon?mobile=1",
+    "title": "Talen Energy Expands Nuclear Energy Relationship with Amazon",
+    "claim": "Talen announced a power purchase agreement to supply Amazon data-center operations from Susquehanna.",
+    "evidence_date": "2025-06-11",
+    "accessed": "2026-09-15",
+    "geography": "Pennsylvania",
+    "status": "Documented organization connection"
+  },
+  {
+    "id": "ppl",
+    "name": "PPL",
+    "category": "Power supplier",
+    "aliases": [
+      "PPL"
+    ],
+    "url": "https://investors.pplweb.com/2025-07-15-PPL-Corporation-and-Blackstone-Infrastructure-create-joint-venture-to-build-natural-gas-generation-in-Pennsylvania-in-support-of-data-center-development?asPDF=1",
+    "title": "PPL and Blackstone generation joint venture",
+    "claim": "PPL and Blackstone announced a joint venture to build gas-fired generation for data centers.",
+    "evidence_date": "2025-07-15",
+    "accessed": "2026-09-15",
+    "geography": "Pennsylvania",
+    "status": "Documented organization connection"
+  },
+  {
+    "id": "blackstone",
+    "name": "Blackstone",
+    "category": "Investor / owner",
+    "aliases": [
+      "BLACKSTONE"
+    ],
+    "url": "https://www.blackstone.com/news/press/blackstone-to-invest-more-than-25-billion-in-pennsylvanias-digital-and-energy-infrastructure-plus-catalyze-an-additional-60-billion-investment/",
+    "title": "Blackstone Pennsylvania digital and energy investment",
+    "claim": "Blackstone identifies its backing of data-center operator QTS and Pennsylvania land acquisitions and investment.",
+    "evidence_date": "2025-07-15",
+    "accessed": "2026-09-15",
+    "geography": "Pennsylvania",
+    "status": "Documented organization connection"
+  },
+  {
+    "id": "qts",
+    "name": "QTS",
+    "category": "Operator / land",
+    "aliases": [
+      "QTS",
+      "QUALITY TECHNOLOGY SERVICES"
+    ],
+    "url": "https://www.blackstone.com/news/press/blackstone-to-invest-more-than-25-billion-in-pennsylvanias-digital-and-energy-infrastructure-plus-catalyze-an-additional-60-billion-investment/",
+    "title": "Blackstone Pennsylvania digital and energy investment",
+    "claim": "Blackstone states that QTS secured northeastern Pennsylvania land for data-center development.",
+    "evidence_date": "2025-07-15",
+    "accessed": "2026-09-15",
+    "geography": "Pennsylvania",
+    "status": "Documented organization connection"
+  },
+  {
+    "id": "constellation",
+    "name": "Constellation Energy",
+    "category": "Power supplier",
+    "aliases": [
+      "CONSTELLATION"
+    ],
+    "url": "https://www.constellationenergy.com/news/2024/Constellation-to-Launch-Crane-Clean-Energy-Center-Restoring-Jobs-and-Carbon-Free-Power-to-The-Grid.html",
+    "title": "Crane Clean Energy Center announcement",
+    "claim": "Constellation announced a 20-year Microsoft power purchase agreement supporting the restart of Three Mile Island Unit 1.",
+    "evidence_date": "2024-09-20",
+    "accessed": "2026-09-15",
+    "geography": "Pennsylvania / PJM",
+    "status": "Documented organization connection"
+  },
+  {
+    "id": "microsoft",
+    "name": "Microsoft",
+    "category": "Operator",
+    "aliases": [
+      "MICROSOFT"
+    ],
+    "url": "https://www.constellationenergy.com/news/2024/Constellation-to-Launch-Crane-Clean-Energy-Center-Restoring-Jobs-and-Carbon-Free-Power-to-The-Grid.html",
+    "title": "Crane Clean Energy Center announcement",
+    "claim": "Microsoft agreed to purchase output from the planned restart of Three Mile Island Unit 1 to match data-center electricity consumption in PJM.",
+    "evidence_date": "2024-09-20",
+    "accessed": "2026-09-15",
+    "geography": "Pennsylvania / PJM",
+    "status": "Documented organization connection"
+  },
+  {
+    "id": "brookfield",
+    "name": "Brookfield",
+    "category": "Investor / power supplier",
+    "aliases": [
+      "BROOKFIELD"
+    ],
+    "url": "https://bam.brookfield.com/press-releases/brookfield-and-google-sign-hydro-framework-agreement-deliver-3000-mw-homegrown",
+    "title": "Brookfield and Google hydro agreement",
+    "claim": "Brookfield and Google announced power agreements involving Pennsylvania hydroelectric facilities to support Google operations in PJM.",
+    "evidence_date": "2025-07-15",
+    "accessed": "2026-09-15",
+    "geography": "Pennsylvania / PJM",
+    "status": "Documented organization connection"
+  },
+  {
+    "id": "google",
+    "name": "Google / Alphabet",
+    "category": "Operator",
+    "aliases": [
+      "GOOGLE",
+      "ALPHABET"
+    ],
+    "url": "https://bam.brookfield.com/press-releases/brookfield-and-google-sign-hydro-framework-agreement-deliver-3000-mw-homegrown",
+    "title": "Brookfield and Google hydro agreement",
+    "claim": "Brookfield and Google announced power agreements involving Pennsylvania hydroelectric facilities to support Google operations in PJM.",
+    "evidence_date": "2025-07-15",
+    "accessed": "2026-09-15",
+    "geography": "Pennsylvania / PJM",
+    "status": "Documented organization connection"
+  },
+  {
+    "id": "ibew",
+    "name": "IBEW International",
+    "category": "Union",
+    "aliases": [
+      "IBEW PAC VOLUNTARY",
+      "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS",
+      "INTL BROTHERHOOD OF ELECTRICAL WORKERS"
+    ],
+    "url": "https://ibew.org/electrical_worker/the-data-center-surge-a-new-generation-of-ibew-jobs/",
+    "title": "The Data Center Surge",
+    "claim": "IBEW describes its members performing data-center electrical construction. National-union evidence does not establish a particular local or member worked on a project.",
+    "evidence_date": "2025-05-01",
+    "accessed": "2026-09-15",
+    "geography": "US / international",
+    "status": "Documented organization connection"
+  },
+  {
+    "id": "ibew143",
+    "name": "IBEW Local 143",
+    "category": "Union",
+    "aliases": [
+      "IBEW LOCAL 143",
+      "LOCAL 0143 IBEW",
+      "LOCAL 143 IBEW"
+    ],
+    "url": "https://ibewlocal143.org/26-billion-in-datacenter-projects-announced-in-central-pennsylvania/",
+    "title": "Central Pennsylvania data-center projects",
+    "claim": "Local 143 presents proposed regional data centers as an opportunity for union construction work. This documents public support, not a signed construction award.",
+    "evidence_date": "2025-07-25",
+    "accessed": "2026-09-15",
+    "geography": "Pennsylvania",
+    "status": "Documented organization connection"
+  },
+  {
+    "id": "ibew163",
+    "name": "IBEW Local 163",
+    "category": "Union",
+    "aliases": [
+      "IBEW LOCAL 163",
+      "LOCAL 0163 IBEW",
+      "LOCAL 163 IBEW"
+    ],
+    "url": "https://www.ibew163jobcalls.com/",
+    "title": "IBEW 163 job calls",
+    "claim": "The local job-call page lists electrical work at Salem Township Data Center Building 101.",
+    "evidence_date": "",
+    "accessed": "2026-09-15",
+    "geography": "Pennsylvania",
+    "status": "Documented organization connection"
+  },
+  {
+    "id": "ua",
+    "name": "United Association",
+    "category": "Union",
+    "aliases": [
+      "UA UNION PLUMBERS",
+      "UNITED ASSOCIATION OF JOURNEYMEN",
+      "UNITED ASSOCIATION POLITICAL"
+    ],
+    "url": "https://www.uagetinvolved.org/issues/datacenters/",
+    "title": "United Association: Data Centers",
+    "claim": "The United Association describes data-center construction as work for its membership and advocates for the sector.",
+    "evidence_date": "",
+    "accessed": "2026-09-15",
+    "geography": "US / international",
+    "status": "Documented organization connection"
+  },
+  {
+    "id": "ua449",
+    "name": "Steamfitters Local 449",
+    "category": "Union",
+    "aliases": [
+      "STEAMFITTERS LOCAL 449",
+      "LOCAL 0449 STEAMFITTERS",
+      "STEAMFITTERS LOCAL UNION 449"
+    ],
+    "url": "https://ua449.com/blog/",
+    "title": "Steamfitters 449 news",
+    "claim": "Local 449 highlights its business manager discussing western Pennsylvania data-center development and resulting jobs.",
+    "evidence_date": "",
+    "accessed": "2026-09-15",
+    "geography": "Pennsylvania",
+    "status": "Documented organization connection"
+  },
+  {
+    "id": "liuna",
+    "name": "LIUNA",
+    "category": "Union",
+    "aliases": [
+      "LIUNA",
+      "LABORERS INTERNATIONAL UNION OF NORTH AMERICA"
+    ],
+    "url": "https://www.liuna.org/news/story/statement-of-liuna-general-president-brent-booker-on-responsible-data-center-development",
+    "title": "LIUNA statement on responsible data-center development",
+    "claim": "LIUNA supports data-center development subject to labor, community, environmental, and ratepayer protections.",
+    "evidence_date": "2026-08-25",
+    "accessed": "2026-09-15",
+    "geography": "Pennsylvania / national",
+    "status": "Documented organization connection"
+  },
+  {
+    "id": "nabtu",
+    "name": "North America\u2019s Building Trades Unions",
+    "category": "Union federation",
+    "aliases": [
+      "NORTH AMERICAS BUILDING TRADES",
+      "BUILDING AND CONSTRUCTION TRADES DEPARTMENT"
+    ],
+    "url": "https://nabtu.org/press_releases/north-americas-building-trades-unions-announce-data-center-agreement/",
+    "title": "NABTU data-center agreement",
+    "claim": "NABTU announced a labor agreement covering construction of the OpenAI and Oracle Stargate campus in Michigan.",
+    "evidence_date": "2026-04-20",
+    "accessed": "2026-09-15",
+    "geography": "US / international",
+    "status": "Documented organization connection"
+  },
+  {
+    "id": "eas",
+    "name": "Eastern Atlantic States Regional Council of Carpenters",
+    "category": "Union",
+    "aliases": [
+      "EASTERN ATLANTIC STATES"
+    ],
+    "url": "https://easdatacenters.com/building-the-future-of-tech-eas-carpenters-power-the-data-center-boom/",
+    "title": "EAS carpenters and data-center construction",
+    "claim": "The council describes its carpenters constructing data centers.",
+    "evidence_date": "",
+    "accessed": "2026-09-15",
+    "geography": "Eastern US",
+    "status": "Documented organization connection"
+  },
+  {
+    "id": "smart",
+    "name": "SMART International",
+    "category": "Union",
+    "aliases": [
+      "SHEET METAL AIR RAIL",
+      "SMART PAC",
+      "SMART TRANSPORTATION"
+    ],
+    "url": "https://www.smart-union.org/tag/production/",
+    "title": "SMART production news",
+    "claim": "SMART describes members manufacturing cooling equipment used in data centers. This is national-union evidence; it does not establish a specific local\u2019s project.",
+    "evidence_date": "",
+    "accessed": "2026-09-15",
+    "geography": "US / international",
+    "status": "Documented organization connection"
+  },
+  {
+    "id": "pachamber",
+    "name": "Pennsylvania Chamber of Business and Industry",
+    "category": "Industry advocacy",
+    "aliases": [
+      "PA CHAMBER",
+      "PENNSYLVANIA CHAMBER"
+    ],
+    "url": "https://www.pachamber.org/energy_faqs/",
+    "title": "PA Chamber energy FAQs",
+    "claim": "The chamber promotes the economic and employment benefits of data-center development.",
+    "evidence_date": "",
+    "accessed": "2026-09-15",
+    "geography": "Pennsylvania",
+    "status": "Documented organization connection"
+  },
+  {
+    "id": "babst",
+    "name": "Babst Calland",
+    "category": "Legal representation",
+    "aliases": [
+      "BABST CALLAND"
+    ],
+    "url": "https://www.babstcalland.com/wp-content/uploads/2026/01/Data-Center-Development.pdf",
+    "title": "Data Center Development",
+    "claim": "Babst Calland describes legal work supporting data-center projects, including power, land acquisition, zoning and permitting.",
+    "evidence_date": "2026-01",
+    "accessed": "2026-09-15",
+    "geography": "Pennsylvania / West Virginia",
+    "status": "Documented organization connection"
+  },
+  {
+    "id": "duane",
+    "name": "Duane Morris",
+    "category": "Legal representation",
+    "aliases": [
+      "DUANE MORRIS"
+    ],
+    "url": "https://www.duanemorris.com/practices/data_centers_and_digital_infrastructure.html",
+    "title": "Data Centers and Digital Infrastructure",
+    "claim": "The firm describes advising data-center developers, operators, cloud providers and investors.",
+    "evidence_date": "",
+    "accessed": "2026-09-15",
+    "geography": "US / international",
+    "status": "Documented organization connection"
+  },
+  {
+    "id": "buchanan",
+    "name": "Buchanan Ingersoll & Rooney",
+    "category": "Legal representation",
+    "aliases": [
+      "BUCHANAN INGERSOLL"
+    ],
+    "url": "https://www.bipc.com/pennsylvania-is-emerging-as-a-premier-market-for-data-centers-heres-how-to-capture-the-opportunity",
+    "title": "Pennsylvania data-center market",
+    "claim": "Buchanan describes working with clients across the data-center development lifecycle.",
+    "evidence_date": "2026-05-14",
+    "accessed": "2026-09-15",
+    "geography": "Pennsylvania",
+    "status": "Documented organization connection"
+  },
+  {
+    "id": "cozen",
+    "name": "Cozen O\u2019Connor",
+    "category": "Legal representation",
+    "aliases": [
+      "COZEN OCONNOR"
+    ],
+    "url": "https://www.cozen.com/practices/real-estate",
+    "title": "Real Estate practice",
+    "claim": "Cozen O\u2019Connor lists data centers among the properties covered by its leasing representation.",
+    "evidence_date": "",
+    "accessed": "2026-09-15",
+    "geography": "US / international",
+    "status": "Documented organization connection"
+  },
+  {
+    "id": "mcnees",
+    "name": "McNees Wallace & Nurick",
+    "category": "Legal representation",
+    "aliases": [
+      "MCNEES"
+    ],
+    "url": "https://www.mcneeslaw.com/services/environmental/",
+    "title": "Environmental practice",
+    "claim": "McNees describes advising large-scale data-center development on permitting and environmental issues.",
+    "evidence_date": "",
+    "accessed": "2026-09-15",
+    "geography": "US / international",
+    "status": "Documented organization connection"
+  },
+  {
+    "id": "holland",
+    "name": "Holland & Knight",
+    "category": "Legal representation",
+    "aliases": [
+      "HOLLAND KNIGHT"
+    ],
+    "url": "https://www.hklaw.com/en/services/practices/real-estate-hospitality-and-leisure/data-centers",
+    "title": "Data Centers practice",
+    "claim": "Holland & Knight describes representation involving data-center acquisition, development and regulatory matters.",
+    "evidence_date": "",
+    "accessed": "2026-09-15",
+    "geography": "US / international",
+    "status": "Documented organization connection"
+  },
+  {
+    "id": "clayco",
+    "name": "Clayco",
+    "category": "Construction",
+    "aliases": [
+      "CLAYCO"
+    ],
+    "url": "https://claycorp.com/work/mission-critical",
+    "title": "Clayco mission-critical construction",
+    "claim": "Clayco lists data-center design and construction work and named completed projects.",
+    "evidence_date": "",
+    "accessed": "2026-09-15",
+    "geography": "US / international",
+    "status": "Documented organization connection"
+  },
+  {
+    "id": "suffolk",
+    "name": "Suffolk Construction",
+    "category": "Construction",
+    "aliases": [
+      "SUFFOLK CONSTRUCTION"
+    ],
+    "url": "https://suffolk.com/sector/mission-critical/",
+    "title": "Suffolk mission-critical construction",
+    "claim": "Suffolk describes its data-center construction business and lists projects.",
+    "evidence_date": "",
+    "accessed": "2026-09-15",
+    "geography": "US / international",
+    "status": "Documented organization connection"
+  },
+  {
+    "id": "comcast",
+    "name": "Comcast",
+    "category": "Network supplier",
+    "aliases": [
+      "COMCAST"
+    ],
+    "url": "https://business.comcast.com/enterprise/products-services/connectivity",
+    "title": "Comcast Business connectivity",
+    "claim": "Comcast offers data-center connectivity services. This is a supplier connection, not evidence of owning a hyperscale campus.",
+    "evidence_date": "",
+    "accessed": "2026-09-15",
+    "geography": "US / international",
+    "status": "Documented organization connection"
+  },
+  {
+    "id": "verizon",
+    "name": "Verizon",
+    "category": "Network supplier",
+    "aliases": [
+      "VERIZON"
+    ],
+    "url": "https://www.verizon.com/about/news/verizon-business-and-aws-new-fiber-deal",
+    "title": "Verizon and AWS fiber agreement",
+    "claim": "Verizon describes building high-capacity fiber pathways connecting AWS data centers.",
+    "evidence_date": "2025",
+    "accessed": "2026-09-15",
+    "geography": "US / international",
+    "status": "Documented organization connection"
+  },
+  {
+    "id": "pnc",
+    "name": "PNC",
+    "category": "Finance / enterprise operator",
+    "aliases": [
+      "PNC"
+    ],
+    "url": "https://www.pnc.com/en/corporate-and-institutional/topics/specialty-segments/technology-banking-solutions.html",
+    "title": "PNC technology finance",
+    "claim": "PNC lists data centers and cloud services among the sectors covered by its technology banking business.",
+    "evidence_date": "",
+    "accessed": "2026-09-15",
+    "geography": "US / international",
+    "status": "Documented organization connection"
+  },
+  {
+    "id": "ironmountain",
+    "name": "Iron Mountain",
+    "category": "Operator",
+    "aliases": [
+      "IRON MOUNTAIN"
+    ],
+    "url": "https://www.ironmountain.com/data-centers/locations/na/pennsylvania-data-center",
+    "title": "Western Pennsylvania data center",
+    "claim": "Iron Mountain describes its underground colocation data center in Boyers, Pennsylvania.",
+    "evidence_date": "",
+    "accessed": "2026-09-15",
+    "geography": "Pennsylvania",
+    "status": "Documented organization connection"
+  },
+  {
+    "id": "ibm",
+    "name": "IBM",
+    "category": "Operator",
+    "aliases": [
+      "IBM",
+      "INTERNATIONAL BUSINESS MACHINES"
+    ],
+    "url": "https://www.ibm.com/solutions/cloud-data-centers",
+    "title": "IBM Cloud global data centers",
+    "claim": "IBM describes its global network of cloud data centers.",
+    "evidence_date": "",
+    "accessed": "2026-09-15",
+    "geography": "US / international",
+    "status": "Documented organization connection"
+  },
+  {
+    "id": "equinix",
+    "name": "Equinix",
+    "category": "Operator",
+    "aliases": [
+      "EQUINIX"
+    ],
+    "url": "https://www.equinix.com/data-centers/americas-colocation/united-states-colocation/philadelphia-data-centers",
+    "title": "Equinix Philadelphia data centers",
+    "claim": "Equinix offers Philadelphia colocation and data-center interconnection services.",
+    "evidence_date": "",
+    "accessed": "2026-09-15",
+    "geography": "Pennsylvania",
+    "status": "Documented organization connection"
+  },
+  {
+    "id": "ugi",
+    "name": "UGI",
+    "category": "Power supplier / land",
+    "aliases": [
+      "UGI"
+    ],
+    "url": "https://ugi.gcs-web.com/news-releases/news-release-details/ugi-energy-services-and-prime-data-centers-forge-strategic",
+    "title": "UGI and Prime Data Centers partnership",
+    "claim": "UGI describes a property sale and dedicated gas infrastructure supporting a proposed Pennsylvania data-center campus.",
+    "evidence_date": "2026-05-06",
+    "accessed": "2026-09-15",
+    "geography": "Pennsylvania",
+    "status": "Documented organization connection"
+  },
+  {
+    "id": "eqtgas",
+    "name": "EQT Corporation (natural gas)",
+    "category": "Power supplier",
+    "aliases": [
+      "EQT CORPORATION",
+      "EQT CORP",
+      "EQT EMPLOYEES",
+      "EQT PAC"
+    ],
+    "url": "https://s24.q4cdn.com/922296017/files/doc_financials/2024/q1/EQT-Q1-2024-Earnings-Presentation.pdf",
+    "title": "EQT first-quarter 2024 presentation",
+    "claim": "EQT describes its natural-gas business positioning and supply agreements supporting data-center power demand. Distinct from the unrelated investment firm EQT.",
+    "evidence_date": "2024",
+    "accessed": "2026-09-15",
+    "geography": "US",
+    "status": "Documented organization connection"
+  },
+  {
+    "id": "eqtinvest",
+    "name": "EQT investment group",
+    "category": "Investor",
+    "aliases": [
+      "EQT PARTNERS",
+      "EQT INFRASTRUCTURE"
+    ],
+    "url": "https://eqtgroup.com/news/eqt-infrastructure-to-partner-with-edgeconnex-to-develop-data-centers-for-global-hyperscale-customers-2024-01-05",
+    "title": "EQT and EdgeConneX partnership",
+    "claim": "EQT Infrastructure announced a partnership with EdgeConneX to build and operate hyperscale data centers. Distinct from EQT Corporation, the gas company.",
+    "evidence_date": "2024-01-05",
+    "accessed": "2026-09-15",
+    "geography": "US / international",
+    "status": "Documented organization connection"
+  },
+  {
+    "id": "iuoe542",
+    "name": "Operating Engineers Local 542",
+    "category": "Union",
+    "aliases": [
+      "IUOE LOCAL 542",
+      "OPERATING ENGINEERS LOCAL 542",
+      "LOCAL 542 POLITICAL",
+      "LOCAL 0542"
+    ],
+    "url": "https://projwashington.com/wp-content/uploads/2025/11/Labor-and-Project-Washington-Announce-Partnership.pdf",
+    "title": "Project Washington labor partnership, page 2",
+    "claim": "Listed as a signatory to the Project Washington data-center labor agreement.",
+    "evidence_date": "2025-10-24",
+    "accessed": "2026-09-15",
+    "geography": "Delaware",
+    "status": "Documented organization connection"
+  },
+  {
+    "id": "smart19",
+    "name": "Sheet Metal Workers Local 19",
+    "category": "Union",
+    "aliases": [
+      "LOCAL 19 SHEET METAL",
+      "LOCAL 0019 SHEET METAL",
+      "SHEET METAL WORKERS LOCAL 19",
+      "SHEETMETAL WORKERS LOCAL 19"
+    ],
+    "url": "https://projwashington.com/wp-content/uploads/2025/11/Labor-and-Project-Washington-Announce-Partnership.pdf",
+    "title": "Project Washington labor partnership, page 2",
+    "claim": "Listed as a signatory to the Project Washington data-center labor agreement.",
+    "evidence_date": "2025-10-24",
+    "accessed": "2026-09-15",
+    "geography": "Delaware",
+    "status": "Documented organization connection"
+  },
+  {
+    "id": "boiler13",
+    "name": "Boilermakers Local 13",
+    "category": "Union",
+    "aliases": [
+      "BOILERMAKERS LOCAL 13",
+      "LOCAL 0013 BOILERMAKERS"
+    ],
+    "url": "https://projwashington.com/wp-content/uploads/2025/11/Labor-and-Project-Washington-Announce-Partnership.pdf",
+    "title": "Project Washington labor partnership, page 2",
+    "claim": "Listed as a signatory to the Project Washington data-center labor agreement.",
+    "evidence_date": "2025-10-24",
+    "accessed": "2026-09-15",
+    "geography": "Delaware",
+    "status": "Documented organization connection"
+  },
+  {
+    "id": "painters21",
+    "name": "Painters District Council 21",
+    "category": "Union",
+    "aliases": [
+      "PAINTERS DISTRICT COUNCIL 21",
+      "IUPAT DISTRICT COUNCIL 21",
+      "DISTRICT COUNCIL 0021",
+      "DC 21 PAC"
+    ],
+    "url": "https://projwashington.com/wp-content/uploads/2025/11/Labor-and-Project-Washington-Announce-Partnership.pdf",
+    "title": "Project Washington labor partnership, page 2",
+    "claim": "Listed as a signatory to the Project Washington data-center labor agreement.",
+    "evidence_date": "2025-10-24",
+    "accessed": "2026-09-15",
+    "geography": "Delaware",
+    "status": "Documented organization connection"
+  },
+  {
+    "id": "roof30",
+    "name": "Roofers Local 30",
+    "category": "Union",
+    "aliases": [
+      "ROOFERS LOCAL 30",
+      "LOCAL 0030 ROOFERS"
+    ],
+    "url": "https://projwashington.com/wp-content/uploads/2025/11/Labor-and-Project-Washington-Announce-Partnership.pdf",
+    "title": "Project Washington labor partnership, page 2",
+    "claim": "Listed as a signatory to the Project Washington data-center labor agreement.",
+    "evidence_date": "2025-10-24",
+    "accessed": "2026-09-15",
+    "geography": "Delaware",
+    "status": "Documented organization connection"
+  },
+  {
+    "id": "cement592",
+    "name": "Cement Masons Local 592",
+    "category": "Union",
+    "aliases": [
+      "CEMENT MASONS LOCAL 592",
+      "PLASTERERS LOCAL 592",
+      "LOCAL 0592"
+    ],
+    "url": "https://projwashington.com/wp-content/uploads/2025/11/Labor-and-Project-Washington-Announce-Partnership.pdf",
+    "title": "Project Washington labor partnership, page 2",
+    "claim": "Listed as a signatory to the Project Washington data-center labor agreement.",
+    "evidence_date": "2025-10-24",
+    "accessed": "2026-09-15",
+    "geography": "Delaware",
+    "status": "Documented organization connection"
+  },
+  {
+    "id": "ua420",
+    "name": "Steamfitters Local 420",
+    "category": "Union",
+    "aliases": [
+      "STEAMFITTERS LOCAL 420",
+      "STEAMFITTERS LOCAL UNION 420",
+      "STEAMFITTERS LOCAL UNION NO 420",
+      "LOCAL 0420 STEAMFITTERS",
+      "LOCAL 420 STEAMFITTERS",
+      "STEAMFITTERS 420"
+    ],
+    "url": "https://www.uagetinvolved.org/news/ua-business-manager-highlights-data-center-opportunities/",
+    "title": "UA business manager highlights data-center opportunities",
+    "claim": "The United Association identifies Local 420\u2019s business manager describing data-center work opportunities.",
+    "evidence_date": "2026-06-09",
+    "accessed": "2026-09-15",
+    "geography": "Pennsylvania",
+    "status": "Documented organization connection"
+  }
+]

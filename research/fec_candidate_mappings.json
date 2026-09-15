@@ -1,0 +1,463 @@
+[
+  {
+    "candidate_id": "c014",
+    "candidate": "BILGER, RAY",
+    "district": 15,
+    "fec_candidate_id": "H6PA15181",
+    "committees": [
+      {
+        "filer_id": "C00938100",
+        "name": "RAY BILGER FOR CONGRESS",
+        "basis": "FEC candidate-committee linkage (P)",
+        "type": "FEC",
+        "report_id": "H6PA15181",
+        "source_url": "https://www.fec.gov/data/committee/C00938100/?cycle=2026"
+      }
+    ],
+    "transactions": 288,
+    "federal_transactions": 288,
+    "donors": 116
+  },
+  {
+    "candidate_id": "c023",
+    "candidate": "BOYLE, BRENDAN F",
+    "district": 2,
+    "fec_candidate_id": "H4PA13199",
+    "committees": [
+      {
+        "filer_id": "20160160",
+        "name": "BOYLE, BRENDAN  CITIZENS FOR",
+        "basis": "first/surname or known nickname",
+        "report_id": "384069",
+        "office": "USC",
+        "district": "2",
+        "party": "DEM",
+        "type": "2"
+      },
+      {
+        "filer_id": "2003070",
+        "name": "BOYLE, BRENDAN FRIENDS OF",
+        "basis": "first/surname or known nickname",
+        "report_id": "199555",
+        "office": "STH",
+        "district": "170",
+        "party": "DEM",
+        "type": "2"
+      },
+      {
+        "filer_id": "C00543363",
+        "name": "CITIZENS FOR BOYLE",
+        "basis": "FEC candidate-committee linkage (P)",
+        "type": "FEC",
+        "report_id": "H4PA13199",
+        "source_url": "https://www.fec.gov/data/committee/C00543363/?cycle=2026"
+      }
+    ],
+    "transactions": 8447,
+    "federal_transactions": 7057,
+    "donors": 2770
+  },
+  {
+    "candidate_id": "c025",
+    "candidate": "BRADSTOCK, DAVID ALAN",
+    "district": 14,
+    "fec_candidate_id": "H6PA14200",
+    "committees": [
+      {
+        "filer_id": "C00913376",
+        "name": "BRADSTOCK FOR CONGRESS",
+        "basis": "FEC candidate-committee linkage (P)",
+        "type": "FEC",
+        "report_id": "H6PA14200",
+        "source_url": "https://www.fec.gov/data/committee/C00913376/?cycle=2026"
+      }
+    ],
+    "transactions": 449,
+    "federal_transactions": 449,
+    "donors": 142
+  },
+  {
+    "candidate_id": "c029",
+    "candidate": "BROOKS, ROBERT R",
+    "district": 7,
+    "fec_candidate_id": "H6PA07188",
+    "committees": [
+      {
+        "filer_id": "20180015",
+        "name": "FRIENDS OF BOB BROOKS",
+        "basis": "first/surname or known nickname",
+        "report_id": "375340",
+        "office": "",
+        "district": "",
+        "party": "REP",
+        "type": "2"
+      },
+      {
+        "filer_id": "C00917096",
+        "name": "BOB BROOKS FOR CONGRESS",
+        "basis": "FEC candidate-committee linkage (P)",
+        "type": "FEC",
+        "report_id": "H6PA07188",
+        "source_url": "https://www.fec.gov/data/committee/C00917096/?cycle=2026"
+      }
+    ],
+    "transactions": 4502,
+    "federal_transactions": 4353,
+    "donors": 1358
+  },
+  {
+    "candidate_id": "c043",
+    "candidate": "COGNETTI, PAIGE",
+    "district": 8,
+    "fec_candidate_id": "H6PA08293",
+    "committees": [
+      {
+        "filer_id": "C00918151",
+        "name": "PAIGE FOR PA",
+        "basis": "FEC candidate-committee linkage (P)",
+        "type": "FEC",
+        "report_id": "H6PA08293",
+        "source_url": "https://www.fec.gov/data/committee/C00918151/?cycle=2026"
+      }
+    ],
+    "transactions": 7435,
+    "federal_transactions": 7435,
+    "donors": 2705
+  },
+  {
+    "candidate_id": "c054",
+    "candidate": "DEAN CUNNANE, MADELEINE",
+    "district": 4,
+    "fec_candidate_id": "H8PA04116",
+    "committees": [
+      {
+        "filer_id": "2018C0169",
+        "name": "DEAN CUNNANE, MADELEINE",
+        "basis": "first/surname or known nickname",
+        "report_id": "276986",
+        "office": "STH",
+        "district": "153",
+        "party": "DEM",
+        "type": "1"
+      },
+      {
+        "filer_id": "C00670844",
+        "name": "MAD 4 PA PAC",
+        "basis": "FEC candidate-committee linkage (P)",
+        "type": "FEC",
+        "report_id": "H8PA04116",
+        "source_url": "https://www.fec.gov/data/committee/C00670844/?cycle=2026"
+      }
+    ],
+    "transactions": 20600,
+    "federal_transactions": 20600,
+    "donors": 3222
+  },
+  {
+    "candidate_id": "c058",
+    "candidate": "DELUZIO, CHRISTOPHER RAPHAEL",
+    "district": 17,
+    "fec_candidate_id": "H2PA17103",
+    "committees": [
+      {
+        "filer_id": "20230267",
+        "name": "CHRIS DELUZIO FOR CONGRESS",
+        "basis": "first/surname or known nickname",
+        "report_id": "442329",
+        "office": "",
+        "district": "",
+        "party": "",
+        "type": "2"
+      },
+      {
+        "filer_id": "C00787648",
+        "name": "CHRIS DELUZIO FOR CONGRESS",
+        "basis": "FEC candidate-committee linkage (P)",
+        "type": "FEC",
+        "report_id": "H2PA17103",
+        "source_url": "https://www.fec.gov/data/committee/C00787648/?cycle=2026"
+      }
+    ],
+    "transactions": 28433,
+    "federal_transactions": 28433,
+    "donors": 4736
+  },
+  {
+    "candidate_id": "c069",
+    "candidate": "FARNHAM, ELIZABETH RHOADS",
+    "district": 13,
+    "fec_candidate_id": "H4PA13298",
+    "committees": [
+      {
+        "filer_id": "C00860098",
+        "name": "BETH FARNHAM FOR CONGRESS",
+        "basis": "FEC candidate-committee linkage (P)",
+        "type": "FEC",
+        "report_id": "H4PA13298",
+        "source_url": "https://www.fec.gov/data/committee/C00860098/?cycle=2026"
+      }
+    ],
+    "transactions": 318,
+    "federal_transactions": 318,
+    "donors": 104
+  },
+  {
+    "candidate_id": "c103",
+    "candidate": "HARVIE JR, ROBERT J",
+    "district": 1,
+    "fec_candidate_id": "H6PA01181",
+    "committees": [
+      {
+        "filer_id": "20180370",
+        "name": "FRIENDS OF BOB HARVIE",
+        "basis": "first/surname or known nickname",
+        "report_id": "435923",
+        "office": "",
+        "district": "1",
+        "party": "DEM",
+        "type": "2"
+      },
+      {
+        "filer_id": "C00901348",
+        "name": "BOB HARVIE FOR CONGRESS",
+        "basis": "FEC candidate-committee linkage (P)",
+        "type": "FEC",
+        "report_id": "H6PA01181",
+        "source_url": "https://www.fec.gov/data/committee/C00901348/?cycle=2026"
+      }
+    ],
+    "transactions": 6807,
+    "federal_transactions": 6295,
+    "donors": 1727
+  },
+  {
+    "candidate_id": "c110",
+    "candidate": "HOULAHAN, CHRISSY JAMPOLER",
+    "district": 6,
+    "fec_candidate_id": "H8PA06087",
+    "committees": [
+      {
+        "filer_id": "20190330",
+        "name": "CHRISSY HOULAHAN FOR CONGRESS",
+        "basis": "first/surname or known nickname",
+        "report_id": "442736",
+        "office": "",
+        "district": "",
+        "party": "",
+        "type": "2"
+      },
+      {
+        "filer_id": "C00637371",
+        "name": "CHRISSY HOULAHAN FOR CONGRESS",
+        "basis": "FEC candidate-committee linkage (P)",
+        "type": "FEC",
+        "report_id": "H8PA06087",
+        "source_url": "https://www.fec.gov/data/committee/C00637371/?cycle=2026"
+      }
+    ],
+    "transactions": 46126,
+    "federal_transactions": 46126,
+    "donors": 6014
+  },
+  {
+    "candidate_id": "c134",
+    "candidate": "LEE, SUMMER LYNN",
+    "district": 12,
+    "fec_candidate_id": "H2PA18200",
+    "committees": [
+      {
+        "filer_id": "20170298",
+        "name": "FRIENDS OF SUMMER LEE",
+        "basis": "first/surname or known nickname",
+        "report_id": "426230",
+        "office": "",
+        "district": "",
+        "party": "",
+        "type": "2"
+      },
+      {
+        "filer_id": "2022C1464",
+        "name": "SUMMER L. LEE",
+        "basis": "first/surname or known nickname",
+        "report_id": "384328",
+        "office": "STH",
+        "district": "34",
+        "party": "DEM",
+        "type": "1"
+      },
+      {
+        "filer_id": "C00791780",
+        "name": "SUMMER LEE FOR CONGRESS",
+        "basis": "FEC candidate-committee linkage (P)",
+        "type": "FEC",
+        "report_id": "H2PA18200",
+        "source_url": "https://www.fec.gov/data/committee/C00791780/?cycle=2026"
+      }
+    ],
+    "transactions": 27095,
+    "federal_transactions": 25473,
+    "donors": 4539
+  },
+  {
+    "candidate_id": "c143",
+    "candidate": "MANNION, NANCY ELLEN",
+    "district": 11,
+    "fec_candidate_id": "H6PA11099",
+    "committees": [
+      {
+        "filer_id": "C00910943",
+        "name": "CITIZENS FOR NANCY MANNION",
+        "basis": "FEC candidate-committee linkage (P)",
+        "type": "FEC",
+        "report_id": "H6PA11099",
+        "source_url": "https://www.fec.gov/data/committee/C00910943/?cycle=2026"
+      }
+    ],
+    "transactions": 786,
+    "federal_transactions": 786,
+    "donors": 171
+  },
+  {
+    "candidate_id": "c179",
+    "candidate": "RABB, CHRISTOPHER M",
+    "district": 3,
+    "fec_candidate_id": "H6PA03203",
+    "committees": [
+      {
+        "filer_id": "2016C0459",
+        "name": "CHRIS RABB",
+        "basis": "first/surname or known nickname",
+        "report_id": "254584",
+        "office": "STH",
+        "district": "200",
+        "party": "DEM",
+        "type": "1"
+      },
+      {
+        "filer_id": "20160033",
+        "name": "RABB, CHRIS FOR THE PEOPLE",
+        "basis": "first/surname or known nickname",
+        "report_id": "433163",
+        "office": "",
+        "district": "",
+        "party": "DEM",
+        "type": "2"
+      },
+      {
+        "filer_id": "2022C0597",
+        "name": "CHRIS RABB",
+        "basis": "first/surname or known nickname",
+        "report_id": "385450",
+        "office": "STH",
+        "district": "200",
+        "party": "DEM",
+        "type": "1"
+      },
+      {
+        "filer_id": "2024C0118",
+        "name": "CHRIS RABB",
+        "basis": "first/surname or known nickname",
+        "report_id": "414638",
+        "office": "STH",
+        "district": "200",
+        "party": "DEM",
+        "type": "1"
+      },
+      {
+        "filer_id": "C00852475",
+        "name": "RABB FOR CONGRESS",
+        "basis": "FEC candidate-committee linkage (P)",
+        "type": "FEC",
+        "report_id": "H6PA03203",
+        "source_url": "https://www.fec.gov/data/committee/C00852475/?cycle=2026"
+      }
+    ],
+    "transactions": 7309,
+    "federal_transactions": 4448,
+    "donors": 2498
+  },
+  {
+    "candidate_id": "c192",
+    "candidate": "SCANLON, MARY GAY",
+    "district": 5,
+    "fec_candidate_id": "H8PA07200",
+    "committees": [
+      {
+        "filer_id": "C00669358",
+        "name": "SCANLON FOR CONGRESS",
+        "basis": "FEC candidate-committee linkage (P)",
+        "type": "FEC",
+        "report_id": "H8PA07200",
+        "source_url": "https://www.fec.gov/data/committee/C00669358/?cycle=2026"
+      },
+      {
+        "filer_id": "C00688051",
+        "name": "SCANLON FOR VICTORY FUND",
+        "basis": "FEC candidate-committee linkage (A)",
+        "type": "FEC",
+        "report_id": "H8PA07200",
+        "source_url": "https://www.fec.gov/data/committee/C00688051/?cycle=2026"
+      }
+    ],
+    "transactions": 25095,
+    "federal_transactions": 25095,
+    "donors": 3225
+  },
+  {
+    "candidate_id": "c207",
+    "candidate": "STELSON, JANELLE",
+    "district": 10,
+    "fec_candidate_id": "H4PA10104",
+    "committees": [
+      {
+        "filer_id": "C00852368",
+        "name": "FRIENDS OF JANELLE STELSON",
+        "basis": "FEC candidate-committee linkage (P)",
+        "type": "FEC",
+        "report_id": "H4PA10104",
+        "source_url": "https://www.fec.gov/data/committee/C00852368/?cycle=2026"
+      }
+    ],
+    "transactions": 32060,
+    "federal_transactions": 32060,
+    "donors": 6589
+  },
+  {
+    "candidate_id": "c215",
+    "candidate": "WAGNER, JUSTIN REED",
+    "district": 16,
+    "fec_candidate_id": "H6PA16379",
+    "committees": [
+      {
+        "filer_id": "C00923326",
+        "name": "JUSTIN WAGNER FOR CONGRESS",
+        "basis": "FEC candidate-committee linkage (P)",
+        "type": "FEC",
+        "report_id": "H6PA16379",
+        "source_url": "https://www.fec.gov/data/committee/C00923326/?cycle=2026"
+      }
+    ],
+    "transactions": 68,
+    "federal_transactions": 68,
+    "donors": 54
+  },
+  {
+    "candidate_id": "c217",
+    "candidate": "WALLACE, RACHEL LILLIAN",
+    "district": 9,
+    "fec_candidate_id": "H6PA09127",
+    "committees": [
+      {
+        "filer_id": "C00921379",
+        "name": "WALLACE FOR CONGRESS",
+        "basis": "FEC candidate-committee linkage (P)",
+        "type": "FEC",
+        "report_id": "H6PA09127",
+        "source_url": "https://www.fec.gov/data/committee/C00921379/?cycle=2026"
+      }
+    ],
+    "transactions": 2148,
+    "federal_transactions": 2148,
+    "donors": 639
+  }
+]

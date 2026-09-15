@@ -1,0 +1,111 @@
+{
+  "archives": [
+    {
+      "year": 2016,
+      "input_rows": 1120598,
+      "selected_rows": 9081,
+      "transactions": 9073,
+      "malformed": 0
+    },
+    {
+      "year": 2017,
+      "input_rows": 1845287,
+      "selected_rows": 6909,
+      "transactions": 6906,
+      "malformed": 0
+    },
+    {
+      "year": 2018,
+      "input_rows": 1152216,
+      "selected_rows": 21047,
+      "transactions": 21032,
+      "malformed": 0
+    },
+    {
+      "year": 2019,
+      "input_rows": 1131007,
+      "selected_rows": 10610,
+      "transactions": 10606,
+      "malformed": 0
+    },
+    {
+      "year": 2020,
+      "input_rows": 1239485,
+      "selected_rows": 21129,
+      "transactions": 21123,
+      "malformed": 0
+    },
+    {
+      "year": 2021,
+      "input_rows": 1339487,
+      "selected_rows": 26704,
+      "transactions": 26695,
+      "malformed": 0
+    },
+    {
+      "year": 2022,
+      "input_rows": 1325969,
+      "selected_rows": 138193,
+      "transactions": 138158,
+      "malformed": 0
+    },
+    {
+      "year": 2023,
+      "input_rows": 1127896,
+      "selected_rows": 27911,
+      "transactions": 27900,
+      "malformed": 1
+    },
+    {
+      "year": 2024,
+      "input_rows": 1102044,
+      "selected_rows": 45471,
+      "transactions": 45447,
+      "malformed": 0
+    },
+    {
+      "year": 2025,
+      "input_rows": 1218967,
+      "selected_rows": 35166,
+      "transactions": 35158,
+      "malformed": 0
+    },
+    {
+      "year": 2026,
+      "input_rows": 375969,
+      "selected_rows": 48047,
+      "transactions": 48028,
+      "malformed": 0
+    }
+  ],
+  "sections": {
+    "IB": 256403,
+    "IC": 40767,
+    "ID": 80517,
+    "IA": 7976,
+    "IIG": 3698,
+    "IIF": 762,
+    "": 3
+  },
+  "errors": [
+    [
+      2023,
+      438416,
+      "malformed"
+    ]
+  ],
+  "fec": {
+    "candidate_count": 17,
+    "committee_count": 18,
+    "transaction_count": 211432,
+    "included_lines": [
+      "11AI",
+      "11B",
+      "11C",
+      "11D"
+    ],
+    "memoed_subtotals_excluded": true,
+    "min_date": "2016-01-01",
+    "max_date": "09/15/2026"
+  }
+}

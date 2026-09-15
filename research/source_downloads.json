@@ -1,0 +1,296 @@
+[
+  {
+    "id": "amazon",
+    "status": "saved",
+    "path": "evidence/amazon.html",
+    "sha256": "7c0194d85e156aefbf2c51164eadafbb82d0b69356f1f7f4130425d52d9796b2",
+    "bytes": 185998,
+    "final_url": "https://www.amazoninnovationinpa.com/falls-township-innovation-campus/",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "id": "northpoint",
+    "status": "saved",
+    "path": "evidence/northpoint.html",
+    "sha256": "7c0194d85e156aefbf2c51164eadafbb82d0b69356f1f7f4130425d52d9796b2",
+    "bytes": 185998,
+    "final_url": "https://www.amazoninnovationinpa.com/falls-township-innovation-campus/",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "id": "talen",
+    "status": "link only",
+    "error": "The read operation timed out",
+    "url": "https://ir.talenenergy.com/news-releases/news-release-details/talen-energy-expands-nuclear-energy-relationship-amazon?mobile=1"
+  },
+  {
+    "id": "ppl",
+    "status": "saved",
+    "path": "evidence/ppl.pdf",
+    "sha256": "831f549c76c8fabbe0c2ffbc8d2cadff7c59d6f456ec40730cb558e44b2993a2",
+    "bytes": 35730,
+    "final_url": "https://investors.pplweb.com/2025-07-15-PPL-Corporation-and-Blackstone-Infrastructure-create-joint-venture-to-build-natural-gas-generation-in-Pennsylvania-in-support-of-data-center-development?asPDF=1",
+    "content_type": "application/pdf"
+  },
+  {
+    "id": "blackstone",
+    "status": "link only",
+    "error": "HTTP Error 403: Forbidden",
+    "url": "https://www.blackstone.com/news/press/blackstone-to-invest-more-than-25-billion-in-pennsylvanias-digital-and-energy-infrastructure-plus-catalyze-an-additional-60-billion-investment/"
+  },
+  {
+    "id": "qts",
+    "status": "link only",
+    "error": "HTTP Error 403: Forbidden",
+    "url": "https://www.blackstone.com/news/press/blackstone-to-invest-more-than-25-billion-in-pennsylvanias-digital-and-energy-infrastructure-plus-catalyze-an-additional-60-billion-investment/"
+  },
+  {
+    "id": "constellation",
+    "status": "saved",
+    "path": "evidence/constellation.html",
+    "sha256": "aab42dbfc623b670d5e6387686ee7a5956654bf4569cfdfa0e573804296d4aca",
+    "bytes": 126956,
+    "final_url": "https://www.constellationenergy.com/news/2024/Constellation-to-Launch-Crane-Clean-Energy-Center-Restoring-Jobs-and-Carbon-Free-Power-to-The-Grid.html",
+    "content_type": "text/html;charset=utf-8"
+  },
+  {
+    "id": "microsoft",
+    "status": "saved",
+    "path": "evidence/microsoft.html",
+    "sha256": "aab42dbfc623b670d5e6387686ee7a5956654bf4569cfdfa0e573804296d4aca",
+    "bytes": 126956,
+    "final_url": "https://www.constellationenergy.com/news/2024/Constellation-to-Launch-Crane-Clean-Energy-Center-Restoring-Jobs-and-Carbon-Free-Power-to-The-Grid.html",
+    "content_type": "text/html;charset=utf-8"
+  },
+  {
+    "id": "brookfield",
+    "status": "saved",
+    "path": "evidence/brookfield.html",
+    "sha256": "12caf0a5bc82f403df820482aa59ff7e13394cc9650db72cbf64fb0312c5f154",
+    "bytes": 184727,
+    "final_url": "https://bam.brookfield.com/press-releases/brookfield-and-google-sign-hydro-framework-agreement-deliver-3000-mw-homegrown",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "id": "google",
+    "status": "saved",
+    "path": "evidence/google.html",
+    "sha256": "a4dedd2717c2e11559b988fa2308098aaf4f1ca064ea17c8ff3f8a795844c226",
+    "bytes": 184727,
+    "final_url": "https://bam.brookfield.com/press-releases/brookfield-and-google-sign-hydro-framework-agreement-deliver-3000-mw-homegrown",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "id": "ibew",
+    "status": "link only",
+    "error": "HTTP Error 403: Forbidden",
+    "url": "https://ibew.org/electrical_worker/the-data-center-surge-a-new-generation-of-ibew-jobs/"
+  },
+  {
+    "id": "ibew143",
+    "status": "saved",
+    "path": "evidence/ibew143.html",
+    "sha256": "1c01837923bc36251e0eeaaff7ce865af6f41d3a4c1f7be9d3611b72f0c3b63e",
+    "bytes": 213945,
+    "final_url": "https://ibewlocal143.org/26-billion-in-datacenter-projects-announced-in-central-pennsylvania/",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "id": "ibew163",
+    "status": "saved",
+    "path": "evidence/ibew163.html",
+    "sha256": "22cad7506caface902d6b2f3a0a7883f775da366e27333fbf1c54e8d14cf83d6",
+    "bytes": 28689,
+    "final_url": "https://www.ibew163jobcalls.com/",
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "id": "ua",
+    "status": "link only",
+    "error": "HTTP Error 403: Forbidden",
+    "url": "https://www.uagetinvolved.org/issues/datacenters/"
+  },
+  {
+    "id": "ua449",
+    "status": "saved",
+    "path": "evidence/ua449.html",
+    "sha256": "b2fad1a505a62c30784709cb428c8002381e6313d768c5e9478ff0808f64239c",
+    "bytes": 766951,
+    "final_url": "https://ua449.com/blog/",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "id": "liuna",
+    "status": "saved",
+    "path": "evidence/liuna.html",
+    "sha256": "1c1800ad4c7766b9ea0d1bea251f2b793b31ad016b1e0f7bc3e3372d2070ca03",
+    "bytes": 49294,
+    "final_url": "https://www.liuna.org/news/story/statement-of-liuna-general-president-brent-booker-on-responsible-data-center-development",
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "id": "nabtu",
+    "status": "saved",
+    "path": "evidence/nabtu.html",
+    "sha256": "550654d5fdc074925077aab05c629b377813846f08c8308d1819963bd97e35d9",
+    "bytes": 109044,
+    "final_url": "https://nabtu.org/press_releases/north-americas-building-trades-unions-announce-data-center-agreement/",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "id": "eas",
+    "status": "saved",
+    "path": "evidence/eas.html",
+    "sha256": "871ef519af9620ee9458b6da51cb19a09cf7caef690add491bbf6b7e838858d8",
+    "bytes": 140521,
+    "final_url": "https://easdatacenters.com/building-the-future-of-tech-eas-carpenters-power-the-data-center-boom/",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "id": "smart",
+    "status": "saved",
+    "path": "evidence/smart.html",
+    "sha256": "ad94e89435bbf78851f8c945c64e22689d079c9885dcd48d8286a18f95ec6a21",
+    "bytes": 361895,
+    "final_url": "https://www.smart-union.org/tag/production/",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "id": "pachamber",
+    "status": "saved",
+    "path": "evidence/pachamber.html",
+    "sha256": "a9a506a183368b7153d2db3f2e9e6b1ae6e2d2b542a6cbeaf42fa869589c4d78",
+    "bytes": 76780,
+    "final_url": "https://www.pachamber.org/energy_faqs/",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "id": "babst",
+    "status": "saved",
+    "path": "evidence/babst.pdf",
+    "sha256": "8f976b986c8a6b7c6c1ee7b890684b3130b5f6f98aa5c5b008de93f87b49c290",
+    "bytes": 148792,
+    "final_url": "https://www.babstcalland.com/wp-content/uploads/2026/01/Data-Center-Development.pdf",
+    "content_type": "application/pdf"
+  },
+  {
+    "id": "duane",
+    "status": "saved",
+    "path": "evidence/duane.html",
+    "sha256": "142249b939646a53bfc52b65c898a241ddb9658ca48371310d37e2ae9cfb4c39",
+    "bytes": 33396,
+    "final_url": "https://www.duanemorris.com/practices/data_centers_and_digital_infrastructure.html",
+    "content_type": "text/html"
+  },
+  {
+    "id": "buchanan",
+    "status": "link only",
+    "error": "HTTP Error 403: Forbidden",
+    "url": "https://www.bipc.com/pennsylvania-is-emerging-as-a-premier-market-for-data-centers-heres-how-to-capture-the-opportunity"
+  },
+  {
+    "id": "cozen",
+    "status": "saved",
+    "path": "evidence/cozen.html",
+    "sha256": "a94ac95912a39daa639ef4f878a6e3627f58c72909b8fc00dfedc6d5cf1fd436",
+    "bytes": 689280,
+    "final_url": "https://www.cozen.com/practices/real-estate",
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "id": "mcnees",
+    "status": "link only",
+    "error": "HTTP Error 403: Forbidden",
+    "url": "https://www.mcneeslaw.com/services/environmental/"
+  },
+  {
+    "id": "holland",
+    "status": "link only",
+    "error": "HTTP Error 403: Forbidden",
+    "url": "https://www.hklaw.com/en/services/practices/real-estate-hospitality-and-leisure/data-centers"
+  },
+  {
+    "id": "clayco",
+    "status": "saved",
+    "path": "evidence/clayco.html",
+    "sha256": "f14ada965a36c14705734f2e00400421f3a4e31e3e71dd35971a8ad214e4abef",
+    "bytes": 221710,
+    "final_url": "https://claycorp.com/work/mission-critical",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "id": "suffolk",
+    "status": "link only",
+    "error": "HTTP Error 403: Forbidden",
+    "url": "https://suffolk.com/sector/mission-critical/"
+  },
+  {
+    "id": "comcast",
+    "status": "saved",
+    "path": "evidence/comcast.html",
+    "sha256": "59132d2a84b5f0195ce2fd0f79a15bb12c444313002ab6e57c966243f1303f0d",
+    "bytes": 414112,
+    "final_url": "https://business.comcast.com/enterprise/products-services/connectivity",
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "id": "verizon",
+    "status": "saved",
+    "path": "evidence/verizon.html",
+    "sha256": "06b094fb65ab4f150be9a91e7ad1e1422381a7e479088456a4e545055c9e00f1",
+    "bytes": 386975,
+    "final_url": "https://www.verizon.com/about/news/verizon-business-and-aws-new-fiber-deal",
+    "content_type": "text/html"
+  },
+  {
+    "id": "pnc",
+    "status": "link only",
+    "error": "The read operation timed out",
+    "url": "https://www.pnc.com/en/corporate-and-institutional/topics/specialty-segments/technology-banking-solutions.html"
+  },
+  {
+    "id": "ironmountain",
+    "status": "link only",
+    "error": "HTTP Error 429: Too Many Requests",
+    "url": "https://www.ironmountain.com/data-centers/locations/na/pennsylvania-data-center"
+  },
+  {
+    "id": "ibm",
+    "status": "saved",
+    "path": "evidence/ibm.html",
+    "sha256": "0c3b3af891cefc0e4d6fb661a5a2cb6f2d7b3153cebab48abd90f36a32dec972",
+    "bytes": 129395,
+    "final_url": "https://www.ibm.com/solutions/cloud-data-centers",
+    "content_type": "text/html;charset=utf-8"
+  },
+  {
+    "id": "equinix",
+    "status": "saved",
+    "path": "evidence/equinix.html",
+    "sha256": "6b20cdfc47d76945460613d6cab150c719e1ecd33d27003f1798596dbf53f168",
+    "bytes": 253886,
+    "final_url": "https://www.equinix.com/data-centers/americas-colocation/united-states-colocation/philadelphia-data-centers",
+    "content_type": "text/html;charset=utf-8"
+  },
+  {
+    "id": "ugi",
+    "status": "link only",
+    "error": "The read operation timed out",
+    "url": "https://ugi.gcs-web.com/news-releases/news-release-details/ugi-energy-services-and-prime-data-centers-forge-strategic"
+  },
+  {
+    "id": "eqtgas",
+    "status": "link only",
+    "error": "HTTP Error 403: Forbidden",
+    "url": "https://s24.q4cdn.com/922296017/files/doc_financials/2024/q1/EQT-Q1-2024-Earnings-Presentation.pdf"
+  },
+  {
+    "id": "eqtinvest",
+    "status": "saved",
+    "path": "evidence/eqtinvest.html",
+    "sha256": "f7d4c06d1629eeec993b7ff6fc1f87356090b5cfdd9c67db2cad5971e27d1905",
+    "bytes": 215285,
+    "final_url": "https://eqtgroup.com/news/eqt-infrastructure-to-partner-with-edgeconnex-to-develop-data-centers-for-global-hyperscale-customers-2024-01-05",
+    "content_type": "text/html; charset=utf-8"
+  }
+]

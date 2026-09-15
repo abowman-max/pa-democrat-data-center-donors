@@ -1,0 +1,66 @@
+# Pennsylvania Democratic candidate donor explorer
+
+This repository is a portable, static research tool for reviewing itemized Pennsylvania campaign-finance contributions associated with the 2026 Democratic candidate roster supplied for this project. It lets a reader choose an office, district, and candidate; switch between all itemized donors, documented data-center associations, and unverified research leads; inspect each source transaction; and export the current view.
+
+Open the published site through GitHub Pages or serve the `docs/` folder locally. The browser cannot reliably load the data files when `index.html` is opened directly from disk.
+
+## Publish on GitHub Pages
+
+1. Create a new GitHub repository and upload this folder.
+2. In the repository, open **Settings → Pages**.
+3. Under **Build and deployment**, choose **Deploy from a branch**.
+4. Select the main branch and the `/docs` folder, then save.
+
+The site has no server, database, tracking code, or build step. All published records are under `docs/`.
+
+## What is included
+
+- 230 unique candidate, office, and district records from the supplied 2026 workbook.
+- 601,558 itemized contribution entries: 390,126 from the supplied Pennsylvania archives and 211,432 official FEC Schedule A contribution records.
+- 44 reviewed organizations with documented data-center connections.
+- 5,950 contribution-to-organization associations identified by an exact reviewed name or reported-employer alias.
+- Direct links from each contribution to the Pennsylvania filing viewer and to the public evidence supporting each organization’s data-center connection.
+- A downloadable evidence packet in `docs/evidence/source-packet.zip`.
+
+Money is stored as integer cents in the website data. Pennsylvania cash includes DOS sections IA, IB, IC, and ID; in-kind contributions include sections IIF and IIG. Federal records include processed FEC Schedule A contribution lines 11AI, 11B, 11C, and 11D. Memoed subtotals are excluded to avoid counting conduit totals on top of the underlying contributions.
+
+## Important limits
+
+This is a research index, not a finding that every matched donor personally supports a data-center project. An association can arise because the contribution name is a reviewed organization or PAC, or because an individual reported a reviewed organization as an employer. The evidence establishes the organization’s connection; it does not establish an individual donor’s role, views, or financial interest. Contributions can predate the cited evidence.
+
+The 17 U.S. House candidates are linked to 18 authorized committees through official FEC candidate-committee linkage files. Their processed Schedule A records cover January 1, 2016 through September 15, 2026. Unitemized federal receipts, transfers, loans, other receipts, refunds, debts, and spending are outside this donor report. Some state candidates lack a confidently matched campaign committee. The interface shows coverage warnings rather than treating missing records as zero activity. Unitemized contributions and records with blank employer fields cannot be connected to a donor through this method.
+
+Names are matched only against reviewed aliases. The tool does not use fuzzy matching. Donor rollups use normalized contributor name plus reported city and state; similar spellings stay separate, while different people with the same reported fields can be grouped. Amounts sum signed itemized entries, so negative adjustments reduce displayed totals. Transfers among matched filers can still appear more than once.
+
+See [METHODOLOGY.md](METHODOLOGY.md) for the selection rules, evidence standard, and reproducibility notes.
+
+## Repository layout
+
+- `docs/` — GitHub Pages website and compact candidate-level data files.
+- `docs/evidence/` — evidence register, available original PDFs, checksums, and source packet.
+- `research/entities.json` — reviewed entity aliases, connection claims, evidence dates, and URLs.
+- `research/all_donors.csv` — candidate-level donor rollups for audit and analysis.
+- `research/documented_connections.csv` — every published contribution-to-entity association.
+- `research/candidate_mappings.json` — candidate-to-filer mapping decisions and coverage status.
+- `research/fec_candidate_mappings.json` — reviewed FEC candidate IDs and official authorized-committee linkages.
+- `research/coverage_gaps.json` — candidates whose coverage is known to be incomplete.
+- `research/superseded_reports.json` — excluded older versions of reports.
+- `scripts/` — repeatable import, build, split, and validation utilities.
+
+## Refresh from DOS archives
+
+Python 3 is sufficient; the refresh scripts use only the standard library.
+
+```bash
+python3 scripts/import_dos.py "/path/to/Raw Data (DOS)" work
+python3 scripts/build_data.py work
+python3 scripts/import_fec.py
+python3 scripts/split_large_data.py
+python3 scripts/validate.py
+```
+
+The reviewed filer mappings and entity aliases remain explicit files under `research/`; refreshes do not silently invent new candidate or data-center matches. Review them when the candidate roster or source evidence changes.
+
+## License
+
+Code and original documentation in this repository are released under the MIT License. Source campaign-finance records and third-party evidence retain their original terms and attribution.

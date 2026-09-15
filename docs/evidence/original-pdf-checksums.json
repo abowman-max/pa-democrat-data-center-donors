@@ -1,0 +1,17 @@
+[
+  {
+    "file": "ppl.pdf",
+    "sha256": "831f549c76c8fabbe0c2ffbc8d2cadff7c59d6f456ec40730cb558e44b2993a2",
+    "bytes": 35730
+  },
+  {
+    "file": "project-washington-original.pdf",
+    "sha256": "0d241aca0277539222200ea707edb9464ec4a0b003b219afee10d844f5640aa1",
+    "bytes": 138863
+  },
+  {
+    "file": "babst.pdf",
+    "sha256": "8f976b986c8a6b7c6c1ee7b890684b3130b5f6f98aa5c5b008de93f87b49c290",
+    "bytes": 148792
+  }
+]
