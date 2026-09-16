@@ -1,5 +1,18 @@
 # Pennsylvania Democratic candidate donor explorer
 
+## Open the explorer
+
+**[Launch the live donor explorer](https://abowman-max.github.io/pa-democrat-data-center-donors/)**
+
+In the explorer:
+
+1. Choose an **office**, **district**, and **candidate**.
+2. Choose **All itemized donors** to review every included contribution, or **Documented data-center associations** to focus on matched donors.
+3. Select a donor or organization to inspect its transactions and source links.
+4. Use **Export CSV** to download the current filtered report.
+
+The website files are in `docs/`. A root `index.html` also redirects to that folder for hosts that publish the repository root.
+
 This repository is a portable, static research tool for reviewing itemized Pennsylvania campaign-finance contributions associated with the 2026 Democratic candidate roster supplied for this project. It lets a reader choose an office, district, and candidate; switch between all itemized donors, documented data-center associations, and unverified research leads; inspect each source transaction; and export the current view.
 
 Open the published site through GitHub Pages or serve the `docs/` folder locally. The browser cannot reliably load the data files when `index.html` is opened directly from disk.
