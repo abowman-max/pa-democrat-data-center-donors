@@ -6,10 +6,10 @@
 
 In the explorer:
 
-1. Choose an **office**, **district**, and **candidate**.
-2. Choose **All itemized donors** to review every included contribution, or **Documented data-center associations** to focus on matched donors.
-3. Select a donor or organization to inspect its transactions and source links.
-4. Use **Export CSV** to download the current filtered report.
+1. Choose an **office** and **All candidates** to compare the full 2026 roster for that office by contribution count and amount.
+2. Choose **All donors** or **Data-center connections** to change the comparison totals, then optionally narrow by year, contribution type, or connection basis.
+3. Select **View donors** beside a candidate to drill into that candidate's donor records and source links.
+4. Use **Export table** or **Export contributions** to download the current filtered report.
 
 The website files are in `docs/`. A root `index.html` also redirects to that folder for hosts that publish the repository root.
 
@@ -69,6 +69,7 @@ python3 scripts/import_dos.py "/path/to/Raw Data (DOS)" work
 python3 scripts/build_data.py work
 python3 scripts/import_fec.py
 python3 scripts/split_large_data.py
+python3 scripts/build_office_summary.py
 python3 scripts/validate.py
 ```
 

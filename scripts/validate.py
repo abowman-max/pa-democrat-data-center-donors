@@ -45,7 +45,10 @@ def scan_keys(value, path="root"):
 
 def main():
     meta = json.loads((DATA / "index.json").read_text())
+    office_summary = json.loads((DATA / "office-summary.json").read_text())
+    summary_candidates = {candidate["id"]: candidate for candidate in office_summary["candidates"]}
     assert len(meta["candidates"]) == meta["unique_candidates"] == 230
+    assert len(summary_candidates) == 230
     assert len({c["id"] for c in meta["candidates"]}) == 230
     entity_ids = {entity["id"] for entity in meta["entities"]}
     assert len(entity_ids) == len(meta["entities"]) == 44
@@ -60,6 +63,7 @@ def main():
             len(donor["transactions"]) for donor in payload["donors"]
         )
         assert payload["candidate"]["donor_count"] == len(payload["donors"])
+        assert sum(bucket["count"] for bucket in summary_candidates[candidate["id"]]["buckets"]) == payload["candidate"]["transaction_count"]
         report_ids = {str(report["CampaignfinanceID"]) for report in payload["reports"]}
         for donor in payload["donors"]:
             for transaction in donor["transactions"]:
