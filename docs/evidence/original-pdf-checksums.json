@@ -1,5 +1,15 @@
 [
   {
+    "file": "senate-roll-call-260.pdf",
+    "sha256": "732dbfe5c131cb8b3a88fa003faa2b2453432f74161007c5d0e15ae944fcf572",
+    "bytes": 106048
+  },
+  {
+    "file": "house-roll-call-470.pdf",
+    "sha256": "478a39bb0ef104113364e60165fe47406472a64073a5839408a653fe067071c5",
+    "bytes": 144538
+  },
+  {
     "file": "ppl.pdf",
     "sha256": "831f549c76c8fabbe0c2ffbc8d2cadff7c59d6f456ec40730cb558e44b2993a2",
     "bytes": 35730

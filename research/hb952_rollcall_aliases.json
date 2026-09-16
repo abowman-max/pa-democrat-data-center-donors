@@ -1,0 +1,1212 @@
+{
+  "bill": "HB 952 PN 1934",
+  "vote_date": "2021-06-25",
+  "house": {
+    "roll_call": 470,
+    "yeas": [
+      "ARMANINI",
+      "FRANKEL",
+      "RIGBY",
+      "FREEMAN",
+      "LONGIETTI",
+      "ROAE",
+      "BENNINGHOFF",
+      "FRITZ",
+      "MACKENZIE, M.",
+      "ROSSI",
+      "MACKENZIE, R.",
+      "ROTHMAN",
+      "BIZZARRO",
+      "GALLOWAY",
+      "MADDEN",
+      "BOBACK",
+      "GAYDOS",
+      "MAJOR",
+      "ROZZI",
+      "BONNER",
+      "GILLEN",
+      "MAKO",
+      "GILLESPIE",
+      "MALAGARI",
+      "SAINATO",
+      "GLEIM",
+      "SAMUELSON",
+      "BRADFORD",
+      "GREGORY",
+      "MARKOSEK",
+      "SANCHEZ",
+      "BRIGGS",
+      "GREINER",
+      "MARSHALL",
+      "SANKEY",
+      "BROOKS",
+      "GROVE",
+      "MASSER",
+      "SAPPEY",
+      "BROWN, A.",
+      "MATZIE",
+      "SAYLOR",
+      "BROWN, R.",
+      "GUZMAN",
+      "MCCLINTON",
+      "SCHEMEL",
+      "BULLOCK",
+      "MCNEILL",
+      "SCHLOSSBERG",
+      "BURGOS",
+      "MEHAFFIE",
+      "SCHMITT",
+      "BURNS",
+      "HARKINS",
+      "MENTZER",
+      "SCHROEDER",
+      "CARROLL",
+      "HARRIS",
+      "MERCURI",
+      "SCHWEYER",
+      "CAUSER",
+      "HEFFLEY",
+      "MERSKI",
+      "SHUSTERMAN",
+      "CEPHAS",
+      "HELM",
+      "METCALFE",
+      "SILVIS",
+      "CIRESI",
+      "HENNESSEY",
+      "METZGAR",
+      "CONKLIN",
+      "HERRIN",
+      "MIHALEK",
+      "SMITH",
+      "COOK",
+      "HERSHEY",
+      "MILLARD",
+      "SNYDER",
+      "HICKERNELL",
+      "MILLER, B.",
+      "CRUZ",
+      "HOHENSTEIN",
+      "MILLER, D.",
+      "SONNEY",
+      "CULVER",
+      "HOWARD",
+      "MIZGORSKI",
+      "STAATS",
+      "MOUL",
+      "STAMBAUGH",
+      "DAVANZO",
+      "IRVIN",
+      "MULLERY",
+      "STEPHENS",
+      "DAVIDSON",
+      "MULLINS",
+      "STRUZZI",
+      "DAVIS, A.",
+      "JAMES",
+      "MUSTELLO",
+      "STURLA",
+      "DAVIS, T.",
+      "NEILSON",
+      "THOMAS",
+      "DAWKINS",
+      "JOZWIAK",
+      "NELSON, E.",
+      "TOMLINSON",
+      "DAY",
+      "KAIL",
+      "NELSON, N.",
+      "TOOHIL",
+      "DEASY",
+      "KAUFER",
+      "O'MARA",
+      "TOPPER",
+      "KAUFFMAN",
+      "O'NEAL",
+      "TWARDZIK",
+      "DELLOSO",
+      "OBERLANDER",
+      "DELOZIER",
+      "ORTITAY",
+      "WARNER",
+      "DELROSSO",
+      "KERWIN",
+      "WARREN",
+      "DELUCA",
+      "KIM",
+      "OWLETT",
+      "WEBSTER",
+      "PARKER",
+      "WENTLING",
+      "DOWLING",
+      "KINSEY",
+      "PASHINSKI",
+      "WHEATLEY",
+      "DRISCOLL",
+      "KIRKLAND",
+      "PEIFER",
+      "WHEELAND",
+      "DUNBAR",
+      "KLUNK",
+      "PENNYCUICK",
+      "WHITE",
+      "ECKER",
+      "KNOWLES",
+      "PICKETT",
+      "WILLIAMS, C.",
+      "EMRICK",
+      "KOSIEROWSKI",
+      "WILLIAMS, D.",
+      "EVANS",
+      "POLINCHOCK",
+      "YOUNG",
+      "FARRY",
+      "KRUEGER",
+      "ZABEL",
+      "FEE",
+      "KULIK",
+      "QUINN",
+      "ZIMMERMAN",
+      "LABS",
+      "FITZGERALD",
+      "LAWRENCE",
+      "RADER",
+      "FLOOD",
+      "RAPP",
+      "CUTLER"
+    ],
+    "reviewed_alias_groups": {
+      "FRANKEL": [
+        "Dan Frankel",
+        [
+          "DAN FRANKEL 23 DISTRICT COMMITTEE",
+          "DAN FRANKEL FOR 23RD DISTRICT COMMITTEE",
+          "DAN FRANKEL FOR THE 23RD DISTRICT COMMITTEE",
+          "DAN FRANKEL 23RD DISTRICT COMMITTEE",
+          "DAN FRANKEL FOR 23 DISTRICT COMMITTEE",
+          "DAN FRANKEL FOR THE 23RD DIST COMMITTEE",
+          "FRIENDS OF DAN FRANKEL-23RD DIST COMM"
+        ]
+      ],
+      "FREEMAN": [
+        "Robert Freeman",
+        [
+          "COMMITTEE TO ELECT ROBERT FREEMAN"
+        ]
+      ],
+      "LONGIETTI": [
+        "Mark Longietti",
+        [
+          "FRIENDS OF LONGIETTI"
+        ]
+      ],
+      "BIZZARRO": [
+        "Ryan Bizzarro",
+        [
+          "COMMITTEE TO ELECT RYAN BIZZARRO"
+        ]
+      ],
+      "GALLOWAY": [
+        "John Galloway",
+        [
+          "GALLOWAY JOHN FOR STATE REP",
+          "JOHN GALLOWAY FOR STATE REP",
+          "JOHN GALLOWAY FOR STATE REPRESENTATIVE"
+        ]
+      ],
+      "MADDEN": [
+        "Maureen Madden",
+        [
+          "FRIENDS OF MAUREEN MADDEN",
+          "MAUREEN FRIENDS OF MADDEN"
+        ]
+      ],
+      "ROZZI": [
+        "Mark Rozzi",
+        [
+          "FRIENDS OF MARK ROZZI",
+          "ROZZI MARK FRIENDS OF"
+        ]
+      ],
+      "MALAGARI": [
+        "Steve Malagari",
+        [
+          "FRIENDS OF STEVE MALAGARI",
+          "MALAGARI FRIENDS OF",
+          "STEVE MALAGARI FRIENDS OF"
+        ]
+      ],
+      "SAMUELSON": [
+        "Steve Samuelson",
+        [
+          "FRIENDS OF STEVE SAMUELSON"
+        ]
+      ],
+      "BRADFORD": [
+        "Matt Bradford",
+        [
+          "BRADFORD MATT FRIENDS OF",
+          "FRIENDS OF MATT BRADFORD"
+        ]
+      ],
+      "MARKOSEK": [
+        "Joseph Markosek",
+        [
+          "MARKOSEK FOR STATE LEGISLATIVE",
+          "MARKOSEK FOR STATE LEGISLATOR",
+          "MARKOSEK FOR STATE LEGISLATURE",
+          "MARKOSEK FOR STATE LEGISLATURE COMMITTEE",
+          "MARKOSEK JOSEPH FOR STATE LEG COM"
+        ]
+      ],
+      "SANCHEZ": [
+        "Ben Sanchez",
+        [
+          "FRIENDS OF BEN SANCHEZ",
+          "SANCHEZ BEN FRIENDS OF"
+        ]
+      ],
+      "BRIGGS": [
+        "Tim Briggs",
+        [
+          "FRIENDS OF TIM BRIGGS",
+          "TIM BRIGGS FOR STATE REP",
+          "TIM BRIGGS FOR STATE REPRESENTATIVE",
+          "TIM BRIGGS FOR STATE REPRESENTITIVE"
+        ]
+      ],
+      "MARSHALL": [
+        "Jim Marshall",
+        [
+          "FRIENDS OF JIM MARSHALL"
+        ]
+      ],
+      "SAPPEY": [
+        "Christina Sappey",
+        [
+          "FRIENDS OF CHRISTINA SAPPEY"
+        ]
+      ],
+      "BROWN, A.": [
+        "Amen Brown",
+        [
+          "CITIZENS FOR AMEN BROWN"
+        ]
+      ],
+      "MATZIE": [
+        "Robert Matzie",
+        [
+          "MATZIE ROBERT PEOPLE FOR",
+          "PEOPLE FOR MATZIE"
+        ]
+      ],
+      "GUZMAN": [
+        "Manny Guzman",
+        [
+          "FRIENDS OF MANNY GUZMAN"
+        ]
+      ],
+      "MCCLINTON": [
+        "Joanna McClinton",
+        [
+          "FRIENDS OF JOANA MCCLINTON",
+          "FRIENDS OF JOANNA MCCLINTON",
+          "FRIENDS OF JOHANNA MCCLINTON",
+          "FRIENDS OF JOANNA MCCLINTON PAC",
+          "MCCLINTON JOANNA FRIENDS OF"
+        ]
+      ],
+      "BULLOCK": [
+        "Donna Bullock",
+        [
+          "BULLOCK DONNA FRIENDS OF",
+          "FRIENDS OF DONNA BULLOCK",
+          "FRIENDS OF DONNA BULLOCK AND OTIS BULLOCK",
+          "FRIENDS OF DONNA BULLOCK AMBRIA B JOHNSON"
+        ]
+      ],
+      "MCNEILL": [
+        "Jeanne McNeill",
+        [
+          "MCNEILL FOR PA"
+        ]
+      ],
+      "SCHLOSSBERG": [
+        "Mike Schlossberg",
+        [
+          "FRIENDS OF MICHAEL SCHLOSSBERG",
+          "FRIENDS OF MIKE SCHLOSSBERG",
+          "SCHLOSSBERG MIKE FRIENDS OF"
+        ]
+      ],
+      "BURGOS": [
+        "Danilo Burgos",
+        [
+          "FRIENDS OF DANILO BURGOS"
+        ]
+      ],
+      "HARKINS": [
+        "Pat Harkins",
+        [
+          "FRIENDS OF PAT HARKINS"
+        ]
+      ],
+      "CARROLL": [
+        "Mike Carroll",
+        [
+          "CARROLL MIKE FRIENDS OF FOR ST REP",
+          "FRIENDS OF MICHAEL CARROLL",
+          "FRIENDS OF MIKE CARROLL",
+          "FRIENDS OF MIKE CARROLL FOR STATE REPRESENTATIVE"
+        ]
+      ],
+      "HARRIS": [
+        "Jordan Harris",
+        [
+          "CITIZENS FOR JORDAN HARRIS",
+          "HARRIS JORDAN CITIZENS FOR",
+          "JORDAN HARRIS CITIZENS FOR"
+        ]
+      ],
+      "SCHWEYER": [
+        "Peter Schweyer",
+        [
+          "FRIENDS OF PETER SCHWEYER",
+          "SCHWEYER PETER FRIENDS OF"
+        ]
+      ],
+      "MERSKI": [
+        "Bob Merski",
+        [
+          "FRIENDS OF BOB MERSKI"
+        ]
+      ],
+      "SHUSTERMAN": [
+        "Melissa Shusterman",
+        [
+          "FRIENDS OF MELISSA SHUSTERMAN"
+        ]
+      ],
+      "CEPHAS": [
+        "Morgan Cephas",
+        [
+          "CEPHAS MORGAN FRIENDS FOR",
+          "FRIENDS FOR MORGAN CEPHAS",
+          "FRIENDS OF MORGAN CEPHAS"
+        ]
+      ],
+      "CIRESI": [
+        "Joe Ciresi",
+        [
+          "FRIENDS OF JOE CIRESI"
+        ]
+      ],
+      "CONKLIN": [
+        "Scott Conklin",
+        [
+          "FRIENDS OF SCOTT CONKLIN"
+        ]
+      ],
+      "HERRIN": [
+        "Dianne Herrin",
+        [
+          "FRIENDS OF DIANNE HERRIN"
+        ]
+      ],
+      "SNYDER": [
+        "Pam Snyder",
+        [
+          "COMMITTE TO ELECT PAM SNYDER",
+          "COMMITTEE TO ELECT PAM SNYDER"
+        ]
+      ],
+      "MILLER, D.": [
+        "Dan Miller",
+        [
+          "FRIENDS OF DAN MILLER",
+          "MILLER DAN FRIENDS OF"
+        ]
+      ],
+      "HOHENSTEIN": [
+        "Joe Hohenstein",
+        [
+          "ELECT JOE HOHENSTEIN",
+          "FRIENDS OF JOE HOHENSTEIN",
+          "HOHENSTEIN JOE ELECT"
+        ]
+      ],
+      "MULLERY": [
+        "Gerald Mullery",
+        [
+          "CITIZENS FOR MULLERY",
+          "CITIZENS FOR GERALD MULLERY"
+        ]
+      ],
+      "DAVIDSON": [
+        "Margo Davidson",
+        [
+          "DAVIDSON MARGO FRIENDS OF",
+          "FRIENDS OF MARGO DAVIDSON"
+        ]
+      ],
+      "MULLINS": [
+        "Kyle Mullins",
+        [
+          "FRIENDS OF KYLE MULLINS",
+          "MULLINS KYLE FRIENDS OF"
+        ]
+      ],
+      "DAVIS, A.": [
+        "Austin Davis",
+        [
+          "DAVIS AUSTIN FRIENDS OF",
+          "FRIENDS OF AUSTIN DAVIS"
+        ]
+      ],
+      "STURLA": [
+        "Mike Sturla",
+        [
+          "STURLA MIKE FOR STATE REP",
+          "STURLA FOR STATE REPRESENTATIVE"
+        ]
+      ],
+      "DAVIS, T.": [
+        "Tina Davis",
+        [
+          "DAVIS TINA FRIENDS OF",
+          "FRIENDS OF TINA DAVIS",
+          "FRIENDS OF TINA DAVIS DAVIS"
+        ]
+      ],
+      "DAWKINS": [
+        "Jason Dawkins",
+        [
+          "FRIENDS OF JASON DAWKINS"
+        ]
+      ],
+      "NELSON, N.": [
+        "Napoleon Nelson",
+        [
+          "FRIENDS OF NAPOLEON NELSON"
+        ]
+      ],
+      "PASHINSKI": [
+        "Eddie Day Pashinski",
+        [
+          "COMMITTEE TO ELECT EDDIE DAY PASHINKSI",
+          "COMMITTEE TO ELECT EDDIE DAY PASHINSKI"
+        ]
+      ],
+      "DEASY": [
+        "Dan Deasy",
+        [
+          "COMMITTEE TO ELECT DAN DEASY",
+          "DEASY DAN COM TO ELECT"
+        ]
+      ],
+      "O'MARA": [
+        "Jennifer O'Mara",
+        [
+          "FRIENDS OF JENN OMARA",
+          "FRIENDS OF JENNFER OMARA",
+          "FRIENDS OF JENNIFER OMARA"
+        ]
+      ],
+      "DELLOSO": [
+        "Dave Delloso",
+        [
+          "FRIENDS OF DAVE DELLOSO",
+          "FRIENDS OF DAVE DELLOSO FRIENDS OF DAVE DELLOSO"
+        ]
+      ],
+      "WARREN": [
+        "Perry Warren",
+        [
+          "PERRY WARREN FOR STATE REPRESENTATIVE",
+          "PERRY WARREN FOR STATE REP",
+          "WARREN PERRY FOR STATE REPRESENTATIVE"
+        ]
+      ],
+      "DELUCA": [
+        "Tony DeLuca",
+        [
+          "DELUCA LEGISLATOR COMMITTEE"
+        ]
+      ],
+      "KIM": [
+        "Patty Kim",
+        [
+          "FRIENDS OF PATTY KIM",
+          "KIM PATTY FRIENDS OF"
+        ]
+      ],
+      "WEBSTER": [
+        "Joe Webster",
+        [
+          "FRIENDS OF JOE WEBSTER"
+        ]
+      ],
+      "KINSEY": [
+        "Stephen Kinsey",
+        [
+          "FRIENDS OF STEPHEN KINSEY",
+          "FRIENDS OF STEVEN KINSEY"
+        ]
+      ],
+      "WHEATLEY": [
+        "Jake Wheatley",
+        [
+          "CITIZENS FOR JAKE WHEATLEY",
+          "WHEATLEY CITIZENS FOR JAKE"
+        ]
+      ],
+      "DRISCOLL": [
+        "Mike Driscoll",
+        [
+          "FRIENDS OF MIKE DRISCOLL"
+        ]
+      ],
+      "WILLIAMS, D.": [
+        "Dan Williams",
+        [
+          "CITIZENS FOR DAN WILLIAMS"
+        ]
+      ],
+      "KOSIEROWSKI": [
+        "Bridget Kosierowski",
+        [
+          "FRIENDS OF BRIDGET KOSIEROWSKI",
+          "FRIENDS OF BRIDGET MALLAY KOSIEROWSKI",
+          "FRIENDS OF BRIDGET MALLOY KOSIEROWSKI",
+          "FRIENDS OF BRIDGET MOLLAY KOSIEROWSKI",
+          "FRIENDS OF BRIDGET MOLLOY KOSIEROWSKI",
+          "FRIENDS OF BRIDGEY MALLOY KOSIEROWSKI",
+          "FRIENDS OF BRIDGEY MALLOY-KOSIEROWSKI",
+          "KOSIEROWSKI BRIDGET FRIENDS OF"
+        ]
+      ],
+      "YOUNG": [
+        "Regina Young",
+        [
+          "FRIENDS OF REGINA YOUNG",
+          "FRIENDS OF REGINA YOUNG 185"
+        ]
+      ],
+      "KRUEGER": [
+        "Leanne Krueger",
+        [
+          "COMMITTEE TO ELECT LEANNE KRUEGER-BRANEKY",
+          "COMMITTEE TO ELECT LEANNE KRUEGER BRANEKY",
+          "LEANNE KRUEGER FOR PA"
+        ]
+      ],
+      "ZABEL": [
+        "Mike Zabel",
+        [
+          "FRIENDS OF MIKE ZABEL"
+        ]
+      ],
+      "FEE": [
+        "Mindy Fee",
+        [
+          "FEE MINDY FRIENDS OF"
+        ]
+      ],
+      "KULIK": [
+        "Anita Astorino Kulik",
+        [
+          "FRIENDS OF ANITA ASTORINO KULIK",
+          "FRIENDS OF ANITO ASTORINO KULIK",
+          "FRIENDS OF ANITA KULIK",
+          "KULIK ASTORINO ANITA FRIENDS OF"
+        ]
+      ],
+      "FITZGERALD": [
+        "Isabella Fitzgerald",
+        [
+          "FRIENDS OF ISABELLA FITZGERALD"
+        ]
+      ]
+    },
+    "matched_donor_names": [
+      "ACTBLUE - REPRESENTATIVE PETER SCHWEYER",
+      "AMEN BROWN",
+      "AUSTIN DAVIS",
+      "Amen Brown",
+      "Austin Davis",
+      "BRADFORD, MATT FRIENDS OF",
+      "BRIDGET KOSIEROWSKI",
+      "BRIGGS, TIM FOR ST REP",
+      "BULLOCK, DONNA FRIENDS OF",
+      "CARROLL, MIKE FRIENDS OF FOR ST REP",
+      "CEPHAS, MORGAN",
+      "CEPHAS, MORGAN FRIENDS FOR",
+      "CHRISTINA SAPPEY",
+      "CIRESI, JOE",
+      "CITIZENS FOR AMEN BROWN",
+      "CITIZENS FOR DAN WILLIAMS",
+      "CITIZENS FOR JAKE WHEATLEY",
+      "CITIZENS FOR JORDAN HARRIS",
+      "CITIZENS FOR MULLERY",
+      "COMMITTE TO ELECT PAM SNYDER",
+      "COMMITTEE TO ELECT DAN DEASY",
+      "COMMITTEE TO ELECT EDDIE DAY PASHINKSI",
+      "COMMITTEE TO ELECT EDDIE DAY PASHINSKI",
+      "COMMITTEE TO ELECT LEANNE KRUEGER-BRANEKY",
+      "COMMITTEE TO ELECT PAM SNYDER",
+      "COMMITTEE TO ELECT RYAN BIZZARRO",
+      "Citizens For Dan Williams",
+      "Citizens for Amen Brown",
+      "Citizens for Gerald Mullery",
+      "Citizens for Jordan Harris",
+      "Citizens for Mullery",
+      "Committee To Elect Eddie Day Pashinski",
+      "Committee to Elect Dan Deasy",
+      "Committee to Elect Eddie Day Pashinski",
+      "Committee to Elect Leanne Krueger-Braneky",
+      "Committee to Elect Pam Snyder",
+      "Committee to Elect Robert Freeman",
+      "Committee to Elect Ryan Bizzarro",
+      "Committee to elect Leanne Krueger Braneky",
+      "Committee to elect Ryan Bizzarro",
+      "DAN FRANKEL",
+      "DAN FRANKEL 23 DISTRICT COMMITTEE",
+      "DAN FRANKEL 23RD DIST. COMM",
+      "DAN FRANKEL FOR 23RD DISTRICT COMMITTEE",
+      "DAN FRANKEL FOR THE 23RD",
+      "DAN FRANKEL FOR THE 23RD DISTRICT COMMITTEE",
+      "DAN FRANKEL/ 23RD DISTRICT",
+      "DAN WILLIAMS",
+      "DANILO BURGOS",
+      "DAVIDSON, MARGO FRIENDS OF",
+      "DAVIS, AUSTIN",
+      "DAVIS, AUSTIN FRIENDS OF",
+      "DAVIS, TINA",
+      "DAVIS, TINA FRIENDS OF",
+      "DEASY, DAN COM TO ELECT",
+      "DONNA BULLOCK",
+      "Dan FRANKEL",
+      "Dan Frankel",
+      "Dan Frankel / 23rd District Committee",
+      "Dan Frankel 23 Dist Comm",
+      "Dan Frankel 23 District Committee",
+      "Dan Frankel 23 District Committtee",
+      "Dan Frankel 23rd District",
+      "Dan Frankel 23rd District Committee",
+      "Dan Frankel for 23 District Committee",
+      "Dan Frankel for the 23rd Dist Committee",
+      "Dan Frankel for the 23rd District Committee",
+      "Dan Frankel/ 23 Dist. Comm",
+      "Dan Miller",
+      "Dan Williams",
+      "Deluca Legislator Committee",
+      "Dianne Herrin",
+      "Donna Bullock",
+      "ELECT JOE HOHENSTEIN",
+      "Eddie Day Pashinski",
+      "Elect Joe Hohenstein",
+      "FEE, MINDY FRIENDS OF",
+      "FIRENDS OF MATT BRADFORD",
+      "FRANKEL, DAN FOR THE 23RD DISTRICT COM",
+      "FRIENDS FOR MORGAN CEPHAS",
+      "FRIENDS OF ANITA ASTORINO KULIK",
+      "FRIENDS OF ANITO ASTORINO KULIK",
+      "FRIENDS OF BEN SANCHEZ",
+      "FRIENDS OF BOB MERSKI",
+      "FRIENDS OF BRIDGET KOSIEROWSKI",
+      "FRIENDS OF BRIDGET MALLAY KOSIEROWSKI",
+      "FRIENDS OF BRIDGET MALLOY KOSIEROWSKI",
+      "FRIENDS OF BRIDGET MOLLAY KOSIEROWSKI",
+      "FRIENDS OF BRIDGET MOLLOY KOSIEROWSKI",
+      "FRIENDS OF BRIDGEY MALLOY KOSIEROWSKI",
+      "FRIENDS OF BRIDGEY MALLOY-KOSIEROWSKI",
+      "FRIENDS OF CHRISTINA SAPPEY",
+      "FRIENDS OF DAN FRANKEL-23RD DIST COMM",
+      "FRIENDS OF DAN MILLER",
+      "FRIENDS OF DANILO BURGOS",
+      "FRIENDS OF DAVE DELLOSO",
+      "FRIENDS OF DAVE DELLOSO FRIENDS OF DAVE DELLOSO",
+      "FRIENDS OF DIANNE HERRIN",
+      "FRIENDS OF DONNA BULLOCK",
+      "FRIENDS OF DONNA BULLOCK AND OTIS BULLOCK",
+      "FRIENDS OF JASON DAWKINS",
+      "FRIENDS OF JENN OMARA",
+      "FRIENDS OF JENNFER OMARA",
+      "FRIENDS OF JENNIFER O'MARA",
+      "FRIENDS OF JENNIFER OMARA",
+      "FRIENDS OF JOANA MCCLINTON",
+      "FRIENDS OF JOANNA MCCLINTON",
+      "FRIENDS OF JOE CIRESI",
+      "FRIENDS OF JOE HOHENSTEIN",
+      "FRIENDS OF JOE WEBSTER",
+      "FRIENDS OF JOHANNA MCCLINTON",
+      "FRIENDS OF KYLE MULLINS",
+      "FRIENDS OF LONGIETTI",
+      "FRIENDS OF MANNY GUZMAN",
+      "FRIENDS OF MARGO DAVIDSON",
+      "FRIENDS OF MARK ROZZI",
+      "FRIENDS OF MATT BRADFORD",
+      "FRIENDS OF MAUREEN MADDEN",
+      "FRIENDS OF MELISSA SHUSTERMAN",
+      "FRIENDS OF MICHAEL CARROLL",
+      "FRIENDS OF MICHAEL SCHLOSSBERG",
+      "FRIENDS OF MIKE CARROLL",
+      "FRIENDS OF MIKE DRISCOLL",
+      "FRIENDS OF MIKE SCHLOSSBERG",
+      "FRIENDS OF MIKE ZABEL",
+      "FRIENDS OF MORGAN CEPHAS",
+      "FRIENDS OF NAPOLEON NELSON",
+      "FRIENDS OF PATTY KIM",
+      "FRIENDS OF PETER SCHWEYER",
+      "FRIENDS OF REGINA YOUNG",
+      "FRIENDS OF REGINA YOUNG 185",
+      "FRIENDS OF SCOTT CONKLIN",
+      "FRIENDS OF STEPHEN KINSEY",
+      "FRIENDS OF STEVE MALAGARI",
+      "FRIENDS OF STEVE SAMUELSON",
+      "FRIENDS OF STEVEN KINSEY",
+      "FRIENDS OF TIM BRIGGS",
+      "FRIENDS OF TINA DAVIS",
+      "FRIENDS OF TINA DAVIS DAVIS",
+      "Friend of Matt Bradford",
+      "Friends For Morgan Cephas",
+      "Friends Of Joanna McClinton",
+      "Friends Of Kyle Mullins",
+      "Friends Of Matt Bradford",
+      "Friends Of Steve Malagari",
+      "Friends Of Tina Davis",
+      "Friends of Anita Astorino Kulik",
+      "Friends of Anita Kulik",
+      "Friends of Austin Davis",
+      "Friends of Ben Sanchez",
+      "Friends of Bridget Malloy Kosierowski",
+      "Friends of Dan Miller",
+      "Friends of Danilo Burgos",
+      "Friends of Dave Delloso",
+      "Friends of Donna Bullock",
+      "Friends of Donna Bullock Ambria B Johnson",
+      "Friends of Isabella Fitzgerald",
+      "Friends of Jason Dawkins",
+      "Friends of Jennifer O'Mara",
+      "Friends of Jennifer OMara",
+      "Friends of Jennifer Omara",
+      "Friends of Jim Marshall",
+      "Friends of Joanna McClinton",
+      "Friends of Joanna McClinton PAC",
+      "Friends of Joanna Mcclinton",
+      "Friends of Joe Ciresi",
+      "Friends of Joe Hohenstein",
+      "Friends of Joe Webster",
+      "Friends of Kyle Mullins",
+      "Friends of Longietti",
+      "Friends of Manny Guzman",
+      "Friends of Margo Davidson",
+      "Friends of Mark Rozzi",
+      "Friends of Matt Bradford",
+      "Friends of Maureen Madden",
+      "Friends of Mike Carroll",
+      "Friends of Mike Carroll for State Representative",
+      "Friends of Mike Driscoll",
+      "Friends of Mike Schlossberg",
+      "Friends of Mike Zabel",
+      "Friends of Morgan Cephas",
+      "Friends of Napoleon Nelson",
+      "Friends of Pat Harkins",
+      "Friends of Patty Kim",
+      "Friends of Peter Schweyer",
+      "Friends of Regina Young",
+      "Friends of Scott Conklin",
+      "Friends of Stephen Kinsey",
+      "Friends of Steve Malagari",
+      "Friends of Steve Samuelson",
+      "Friends of Tina Davis",
+      "Friends of Tina Davis Davis",
+      "GALLOWAY, JOHN",
+      "GALLOWAY, JOHN - FOR STATE REP",
+      "GUZMAN, MANNY FOR THE 127TH",
+      "Gerald Mullery",
+      "HARRIS, JORDAN CITIZENS FOR",
+      "HOHENSTEIN, JOE",
+      "HOHENSTEIN, JOE ELECT",
+      "Isabella Fitzgerald",
+      "JENNIFER O'MARA",
+      "JOE CIRESI",
+      "JOE WEBSTER",
+      "JOHN GALLOWAY FOR STATE REP",
+      "JORDAN HARRIS",
+      "JORDAN HARRIS, CITIZENS FOR",
+      "Jason Dawkins",
+      "Jennifer O'Mara",
+      "Joe Ciresi",
+      "John Galloway for State Rep",
+      "John Galloway for State Representative",
+      "Jordan Harris",
+      "KIM, PATTY",
+      "KIM, PATTY FRIENDS OF",
+      "KOSIEROWSKI, BRIDGET",
+      "KOSIEROWSKI, BRIDGET FRIENDS OF",
+      "KULIK, ASTORINO ANITA FRIENDS OF",
+      "KYLE MULLINS",
+      "LEANNE (KRUEGER) FOR PA",
+      "Leanne Krueger",
+      "MADDEN, MAUREEN",
+      "MALAGARI, FRIENDS OF",
+      "MANNY GUZMAN",
+      "MARGO DAVIDSON",
+      "MARKOSEK FOR STATE LEGISLATIVE",
+      "MARKOSEK FOR STATE LEGISLATOR",
+      "MARKOSEK FOR STATE LEGISLATURE",
+      "MARKOSEK FOR STATE LEGISLATURE COMMITTEE",
+      "MARKOSEK, JOSEPH F.",
+      "MARKOSEK, JOSEPH FOR STATE LEG COM",
+      "MARSHALL, JIM",
+      "MATZIE, ROBERT PEOPLE FOR",
+      "MAUREEN FRIENDS OF MADDEN",
+      "MAUREEN MADDEN",
+      "MCCLINTON, JOANNA FRIENDS OF",
+      "MCNEILL FOR PA",
+      "MELISSA SHUSTERMAN",
+      "MIKE SCHLOSSBERG",
+      "MIKE SCHLOSSBERG PAC",
+      "MILLER, DAN FRIENDS OF",
+      "MORGAN CEPHAS",
+      "MULLERY, GERALD",
+      "MULLINS, KYLE FRIENDS OF",
+      "Madden, Maureen",
+      "Margo Davidson",
+      "Markosek For State Legislature",
+      "Markosek for State Legislature",
+      "Markosek for State Legislature Committee",
+      "Maureen Madden",
+      "McNeill for PA",
+      "Melissa Shusterman",
+      "Mike Schlossberg",
+      "Mike Sturla",
+      "Mike Zabel",
+      "Morgan Cephas",
+      "NAPOLEON NELSON",
+      "Napoleon Nelson",
+      "O'MARA, JENNIFER",
+      "PAC, DAN FRANKEL DIST COM",
+      "PAM SNYDER",
+      "PATTY KIM",
+      "PEOPLE FOR MATZIE",
+      "PERRY WARREN FOR STATE REPRESENTATIVE",
+      "PETER SCHWEYER",
+      "Patty Kim",
+      "People for Matzie",
+      "Perry Warren",
+      "Perry Warren fo St. Representative",
+      "Perry Warren for St. Representative",
+      "Perry Warren for State Rep",
+      "Perry Warren for State Representative",
+      "Peter Schweyer",
+      "REGINA YOUNG",
+      "ROZZI, MARK FRIENDS OF",
+      "Regina Young",
+      "Robert Freeman",
+      "Ryan Bizzarro",
+      "SANCHEZ, BEN FRIENDS OF",
+      "SCHLOSSBERG, MIKE",
+      "SCHLOSSBERG, MIKE FRIENDS OF",
+      "SCHWEYER, PETER",
+      "SCHWEYER, PETER FRIENDS OF",
+      "STEPHEN KINSEY",
+      "STEVE MALAGARI, FRIENDS OF",
+      "STURLA, MIKE",
+      "STURLA, MIKE FOR STATE REP",
+      "Stephen Kinsey",
+      "Steve Malagari",
+      "Sturla for State Representative",
+      "TIM BRIGGS FOR STATE REP",
+      "TIM BRIGGS FOR STATE REPRESENTATIVE",
+      "TINA DAVIS",
+      "Tim Briggs For State Representative",
+      "Tim Briggs for State Rep",
+      "Tim Briggs for State Representative",
+      "Tim Briggs for State Representitive",
+      "Tina Davis",
+      "WARREN, PERRY FOR STATE REPRESENTATIVE",
+      "WHEATLEY, CITIZENS FOR JAKE",
+      "WHEATLEY, JAKE"
+    ]
+  },
+  "senate": {
+    "roll_call": 260,
+    "yeas": [
+      "ARGALL",
+      "DISANTO",
+      "MARTIN",
+      "STEFANO",
+      "AUMENT",
+      "DUSH",
+      "MASTRIANO",
+      "STREET",
+      "BAKER",
+      "FLYNN",
+      "MENSCH",
+      "TARTAGLIONE",
+      "BARTOLOTTA",
+      "FONTANA",
+      "TOMLINSON",
+      "BOSCOLA",
+      "GEBHARD",
+      "PHILLIPS-HILL",
+      "VOGEL",
+      "BREWSTER",
+      "GORDNER",
+      "PITTMAN",
+      "WARD, J.",
+      "BROOKS",
+      "HAYWOOD",
+      "REGAN",
+      "WARD, K.",
+      "BROWNE",
+      "HUGHES",
+      "ROBINSON",
+      "WILLIAMS, A.",
+      "HUTCHINSON",
+      "SABATINA",
+      "COLLETT",
+      "KANE",
+      "SANTARSIERO",
+      "YAW",
+      "COMITTA",
+      "KEARNEY",
+      "YUDICHAK",
+      "CORMAN",
+      "LANGERHOLC",
+      "SCAVELLO",
+      "COSTA",
+      "LAUGHLIN",
+      "SCHWANK"
+    ],
+    "reviewed_alias_groups": {
+      "STREET": [
+        "Sharif Street",
+        [
+          "FRIENDS OF SHARIF STREET",
+          "SHARIF STREET FOR PA",
+          "STREET SHARIF FRIENDS OF"
+        ]
+      ],
+      "FLYNN": [
+        "Marty Flynn",
+        [
+          "FRIENDS OF MARTY FLYNN"
+        ]
+      ],
+      "TARTAGLIONE": [
+        "Christine Tartaglione",
+        [
+          "FRIENDS TO ELECT CHRISTINE M TARTAGLIONE",
+          "FRIENDS OF CHRISTINE TARTAGLIONE",
+          "FRIENDS TO ELECT CHRISTINE TARTAGLIONE"
+        ]
+      ],
+      "FONTANA": [
+        "Wayne Fontana",
+        [
+          "COMMITTEE TO ELECT WAYNE FONTANA",
+          "THE COMMITTE TO ELECT WAYNE FONTANA"
+        ]
+      ],
+      "BOSCOLA": [
+        "Lisa Boscola",
+        [
+          "FRIENDS OF LISA BOSCOLA",
+          "FRIENDS OF LIZA BOSCOLA"
+        ]
+      ],
+      "BREWSTER": [
+        "Jim Brewster",
+        [
+          "COMMITTEE ELECT JIM BREWSTER",
+          "COMMITTEE FOR JIM BREWSTER",
+          "COMMITTEE TO ELECT JIM BREWSTER"
+        ]
+      ],
+      "PITTMAN": [
+        "Joe Pittman",
+        [
+          "FRIENDS OF JOE PITTMAN"
+        ]
+      ],
+      "HAYWOOD": [
+        "Art Haywood",
+        [
+          "CAMPAIGN FOR COMPASSION COMMITTEE ART HAYWOOD"
+        ]
+      ],
+      "HUGHES": [
+        "Vincent Hughes",
+        [
+          "CITIZENS FOR HUGHES",
+          "CITIZENS FOR VINCENT HUGHES",
+          "HUGHES VINCENT CITIZENS FOR",
+          "VINCENT HUGHES CITIZENS FOR"
+        ]
+      ],
+      "SABATINA": [
+        "John Sabatina",
+        [
+          "COMMITTEE TO RE-ELECT JOHN SABATINA JR"
+        ]
+      ],
+      "COLLETT": [
+        "Maria Collett",
+        [
+          "MARIA COLLETT FOR PA SENATE"
+        ]
+      ],
+      "KANE": [
+        "John Kane",
+        [
+          "JOHN KANE FOR SENATE",
+          "JOHN KANE FOR STATE SENATE",
+          "KANE FOR SENATE"
+        ]
+      ],
+      "SANTARSIERO": [
+        "Steve Santarsiero",
+        [
+          "SANTARSIERO FOR STATE SENATE",
+          "SANTARSIERO STEVE FOR STATE SENATE",
+          "STEVE SANTARSIERO FOR STATE REP",
+          "SANTARSIERO FOR SENATE"
+        ]
+      ],
+      "COMITTA": [
+        "Carolyn Comitta",
+        [
+          "COMITTA CAROLYN FRIENDS OF",
+          "FRIENDS OF CAROLYN COMITTA"
+        ]
+      ],
+      "KEARNEY": [
+        "Tim Kearney",
+        [
+          "FRIENDS OF TIM KEARNEY",
+          "KEARNEY TIM FRIENDS OF",
+          "TIM KEARNEY FOR PA STATE SENATE"
+        ]
+      ],
+      "YUDICHAK": [
+        "John Yudichak",
+        [
+          "CITIZENS FOR JOHN YUDICHAK"
+        ]
+      ],
+      "COSTA": [
+        "Jay Costa",
+        [
+          "COSTA JAY JR FOR STATE SENATE",
+          "JAY COSTA FOR SENATE",
+          "JAY COSTA FOR STATE SENATE",
+          "JAY COSTA JR FOR STATE SENATE",
+          "JAY COSTA FOR STATE STREET"
+        ]
+      ],
+      "SCHWANK": [
+        "Judy Schwank",
+        [
+          "FRIENDS FOR JUDY SCHWANK",
+          "FRIENDS OF JUDY SCHWANK",
+          "SCHWANK JUDY FRIENDS FOR"
+        ]
+      ]
+    },
+    "matched_donor_names": [
+      "Art Haywood",
+      "CAMPAIGN FOR COMPASSION COMMITTEE (ART HAYWOOD)",
+      "CITIZENS FOR HUGHES",
+      "CITIZENS FOR JOHN YUDICHAK",
+      "COMITTA, CAROLYN FRIENDS OF",
+      "COMMITTEE ELECT JIM BREWSTER",
+      "COMMITTEE FOR JIM BREWSTER",
+      "COMMITTEE TO ELECT JIM BREWSTER",
+      "COMMITTEE TO ELECT WAYNE FONTANA",
+      "COSTA, JAY JR. FOR STATE SENATE",
+      "Citizens For Hughes",
+      "Citizens for Hughes",
+      "Citizens for Hughes (dated 11/8, recv'd by mail, deposited 11/23)",
+      "Citizens for John Yudichak",
+      "Citizens for Vincent Hughes",
+      "Committee to Elect Jim Brewster",
+      "Committee to Elect Wayne Fontana",
+      "Committee to Re-Elect John Sabatina Jr.",
+      "FRIEND OF MARTY FLYNN",
+      "FRIENDS FOR JUDY SCHWANK",
+      "FRIENDS OF CAROLYN COMITTA",
+      "FRIENDS OF JOE PITTMAN",
+      "FRIENDS OF LISA BOSCOLA",
+      "FRIENDS OF LIZA BOSCOLA",
+      "FRIENDS OF MARTY FLYNN",
+      "FRIENDS OF SHARIF STREET",
+      "FRIENDS OF TIM KEARNEY",
+      "FRIENDS TO ELECT CHRISTINE M TARTAGLIONE",
+      "Friends For Judy Schwank",
+      "Friends for Judy Schwank",
+      "Friends of Carolyn Comitta",
+      "Friends of Christine Tartaglione",
+      "Friends of Judy Schwank",
+      "Friends of Lisa Boscola",
+      "Friends of Marty Flynn",
+      "Friends of Sharif Street",
+      "Friends of Tim Kearney",
+      "Friends to Elect Christine M Tartaglione",
+      "Friends to Elect Christine M. Tartaglione",
+      "Friends to Elect Christine Tartaglione",
+      "HUGHES, VINCENT CITIZENS FOR",
+      "JAY COSTA FOR SENATE",
+      "JAY COSTA FOR STATE SENATE",
+      "JAY COSTA FOR STATE STREET",
+      "JOHN KANE",
+      "JOHN KANE FOR SENATE",
+      "JOHN KANE FOR STATE SENATE",
+      "Jay Costa",
+      "Jay Costa For State Senate",
+      "Jay Costa Jr. for State Senate",
+      "Jay Costa for Senate",
+      "Jay Costa for State Senate",
+      "John Kane",
+      "John Kane For Senate",
+      "John Kane for Senate",
+      "KANE FOR SENATE",
+      "KANE, JOHN R.",
+      "KEARNEY, TIM FRIENDS OF",
+      "Kane For Senate",
+      "Kane for Senate",
+      "MARIA COLLETT",
+      "MARIA COLLETT FOR PA SENATE",
+      "Maria Collett",
+      "SANTARSIERO FOR STATE SENATE",
+      "SANTARSIERO, STEVE",
+      "SANTARSIERO, STEVE FOR STATE SENATE",
+      "SANTARSIERO, STEVE J",
+      "SCHWANK, JUDY FRIENDS FOR",
+      "SHARIF STREET FOR PA",
+      "SHARIF STREET FOR US",
+      "STEVE SANTARSIERO",
+      "STEVE SANTARSIERO FOR STATE REP",
+      "STREET, SHARIF FRIENDS OF",
+      "Santarsiero For State Senate",
+      "Santarsiero for Senate",
+      "Santarsiero for State Senate",
+      "Santarsiero, Steve",
+      "Sharif Street for US",
+      "Steve Santarsiero",
+      "The Committe To Elect Wayne Fontana",
+      "Tim Kearney for PA State Senate",
+      "VINCENT HUGHES",
+      "VINCENT HUGHES CITIZENS FOR",
+      "Vincent Hughes"
+    ]
+  },
+  "method_note": "The official PDFs establish the vote. Full personal names and campaign committee names were manually reviewed against the surname/initial roll calls. Generic surnames and ambiguous names were excluded. The classification describes the donor lawmaker or committee; it does not establish why a contribution was made or the recipient candidate's position.",
+  "excluded_ambiguous_examples": [
+    "Friends of Parker",
+    "Friends of Webster",
+    "Friends of Longietti is retained because the surname is distinctive; generic Brown, Smith, Williams, Ward, and Miller names are excluded unless a reviewed first name identifies the voter."
+  ]
+}

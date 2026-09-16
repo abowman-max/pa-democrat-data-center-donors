@@ -8,9 +8,10 @@ def norm(s):return re.sub(r'[^A-Z0-9]+',' ',html.unescape(s).upper().replace("'"
 def has(s,a):return (' '+a+' ') in (' '+s+' ')
 entities=json.loads((ROOT/'research/entities.json').read_text())
 for e in entities:e['_aliases']=[norm(a) for a in e['aliases']]
-def match(text):
+def match(text,field):
  s=norm(text);out=[]
  for e in entities:
+  if field=='employer' and e.get('contributor_only'):continue
   if e['id']=='ibew' and re.search(r'\b(LOCAL|LU|L U)\s*\d',s):continue
   if any(has(s,a) for a in e['_aliases']):out.append(e['id'])
  return out
@@ -28,8 +29,10 @@ for c in cs:
   key='|'.join(norm(d[k]) for k in ['donor','city','state'])
   did=hashlib.sha256(key.encode()).hexdigest()[:16]
   if did not in groups:groups[did]={'id':did,'name':html.unescape(d['donor']) or '(blank contributor name)','city':d['city'],'state':d['state'],'transactions':[]}
-  direct=match(d['donor']);emp=match(d['employer']); associations=[]
-  for eid in direct:associations.append({'entity':eid,'basis':'PAC / organization name' if re.search(r'\b(PAC|COPE|POLITICAL|GOVT|GOVERNMENT|PGG)\b',norm(d['donor'])) else 'Organization name','field':'contributor','value':d['donor']})
+  direct=match(d['donor'],'contributor');emp=match(d['employer'],'employer'); associations=[]
+  for eid in direct:
+   lawmaker=entity_by[eid].get('contributor_only')
+   associations.append({'entity':eid,'basis':'Lawmaker / campaign committee name' if lawmaker else ('PAC / organization name' if re.search(r'\b(PAC|COPE|POLITICAL|GOVT|GOVERNMENT|PGG)\b',norm(d['donor'])) else 'Organization name'),'field':'contributor','value':d['donor']})
   for eid in emp:
    if eid not in direct:associations.append({'entity':eid,'basis':'Reported employer','field':'employer','value':d['employer']})
   d['connections']=associations

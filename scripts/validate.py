@@ -51,7 +51,7 @@ def main():
     assert len(summary_candidates) == 230
     assert len({c["id"] for c in meta["candidates"]}) == 230
     entity_ids = {entity["id"] for entity in meta["entities"]}
-    assert len(entity_ids) == len(meta["entities"]) == 44
+    assert len(entity_ids) == len(meta["entities"]) == 46
     total_transactions = 0
     federal_transactions = 0
     documented_associations = 0
@@ -102,7 +102,7 @@ def main():
         members = set(archive.namelist())
         required = {"source-register.pdf", "source-register.csv", "README.txt", "original-pdf-checksums.json"}
         assert required.issubset(members), f"evidence packet missing {required - members}"
-        for original in ("ppl.pdf", "babst.pdf", "project-washington-original.pdf"):
+        for original in ("ppl.pdf", "babst.pdf", "project-washington-original.pdf", "house-roll-call-470.pdf", "senate-roll-call-260.pdf"):
             assert original in members
 
     pdf_path = DOCS / "evidence/source-register.pdf"

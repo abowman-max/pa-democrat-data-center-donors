@@ -700,5 +700,706 @@
     "accessed": "2026-09-15",
     "geography": "Pennsylvania",
     "status": "Documented organization connection"
+  },
+  {
+    "id": "hb952_house_yes",
+    "name": "HB 952 House Yea voters and campaign committees",
+    "category": "Lawmaker vote / campaign committee",
+    "aliases": [
+      "Amen Brown",
+      "Anita Astorino Kulik",
+      "Austin Davis",
+      "Ben Sanchez",
+      "Bizzarro Ryan",
+      "Bob Merski",
+      "Bradford Matt",
+      "BRADFORD MATT FRIENDS OF",
+      "Bridget Kosierowski",
+      "Briggs Tim",
+      "Brown Amen",
+      "Bullock Donna",
+      "BULLOCK DONNA FRIENDS OF",
+      "Burgos Danilo",
+      "Carroll Mike",
+      "CARROLL MIKE FRIENDS OF FOR ST REP",
+      "Cephas Morgan",
+      "CEPHAS MORGAN FRIENDS FOR",
+      "Christina Sappey",
+      "Ciresi Joe",
+      "CITIZENS FOR AMEN BROWN",
+      "CITIZENS FOR DAN WILLIAMS",
+      "CITIZENS FOR GERALD MULLERY",
+      "CITIZENS FOR JAKE WHEATLEY",
+      "CITIZENS FOR JORDAN HARRIS",
+      "CITIZENS FOR MULLERY",
+      "COMMITTE TO ELECT PAM SNYDER",
+      "COMMITTEE TO ELECT DAN DEASY",
+      "COMMITTEE TO ELECT EDDIE DAY PASHINKSI",
+      "COMMITTEE TO ELECT EDDIE DAY PASHINSKI",
+      "COMMITTEE TO ELECT LEANNE KRUEGER-BRANEKY",
+      "COMMITTEE TO ELECT LEANNE KRUEGER BRANEKY",
+      "COMMITTEE TO ELECT PAM SNYDER",
+      "COMMITTEE TO ELECT ROBERT FREEMAN",
+      "COMMITTEE TO ELECT RYAN BIZZARRO",
+      "Conklin Scott",
+      "Dan Deasy",
+      "Dan Frankel",
+      "DAN FRANKEL 23 DISTRICT COMMITTEE",
+      "DAN FRANKEL 23RD DISTRICT COMMITTEE",
+      "DAN FRANKEL FOR 23 DISTRICT COMMITTEE",
+      "DAN FRANKEL FOR 23RD DISTRICT COMMITTEE",
+      "DAN FRANKEL FOR THE 23RD DIST COMMITTEE",
+      "DAN FRANKEL FOR THE 23RD DISTRICT COMMITTEE",
+      "Dan Miller",
+      "Dan Williams",
+      "Danilo Burgos",
+      "Dave Delloso",
+      "Davidson Margo",
+      "DAVIDSON MARGO FRIENDS OF",
+      "Davis Austin",
+      "DAVIS AUSTIN FRIENDS OF",
+      "Davis Tina",
+      "DAVIS TINA FRIENDS OF",
+      "Dawkins Jason",
+      "Deasy Dan",
+      "DEASY DAN COM TO ELECT",
+      "Delloso Dave",
+      "DELUCA LEGISLATOR COMMITTEE",
+      "DeLuca Tony",
+      "Dianne Herrin",
+      "Donna Bullock",
+      "Driscoll Mike",
+      "Eddie Day Pashinski",
+      "ELECT JOE HOHENSTEIN",
+      "Fee Mindy",
+      "FEE MINDY FRIENDS OF",
+      "Fitzgerald Isabella",
+      "Frankel Dan",
+      "Freeman Robert",
+      "FRIENDS FOR MORGAN CEPHAS",
+      "FRIENDS OF ANITA ASTORINO KULIK",
+      "FRIENDS OF ANITA KULIK",
+      "FRIENDS OF ANITO ASTORINO KULIK",
+      "FRIENDS OF AUSTIN DAVIS",
+      "FRIENDS OF BEN SANCHEZ",
+      "FRIENDS OF BOB MERSKI",
+      "FRIENDS OF BRIDGET KOSIEROWSKI",
+      "FRIENDS OF BRIDGET MALLAY KOSIEROWSKI",
+      "FRIENDS OF BRIDGET MALLOY KOSIEROWSKI",
+      "FRIENDS OF BRIDGET MOLLAY KOSIEROWSKI",
+      "FRIENDS OF BRIDGET MOLLOY KOSIEROWSKI",
+      "FRIENDS OF BRIDGEY MALLOY KOSIEROWSKI",
+      "FRIENDS OF BRIDGEY MALLOY-KOSIEROWSKI",
+      "FRIENDS OF CHRISTINA SAPPEY",
+      "FRIENDS OF DAN FRANKEL-23RD DIST COMM",
+      "FRIENDS OF DAN MILLER",
+      "FRIENDS OF DANILO BURGOS",
+      "FRIENDS OF DAVE DELLOSO",
+      "FRIENDS OF DAVE DELLOSO FRIENDS OF DAVE DELLOSO",
+      "FRIENDS OF DIANNE HERRIN",
+      "FRIENDS OF DONNA BULLOCK",
+      "FRIENDS OF DONNA BULLOCK AMBRIA B JOHNSON",
+      "FRIENDS OF DONNA BULLOCK AND OTIS BULLOCK",
+      "FRIENDS OF ISABELLA FITZGERALD",
+      "FRIENDS OF JASON DAWKINS",
+      "FRIENDS OF JENN OMARA",
+      "FRIENDS OF JENNFER OMARA",
+      "FRIENDS OF JENNIFER OMARA",
+      "FRIENDS OF JIM MARSHALL",
+      "FRIENDS OF JOANA MCCLINTON",
+      "FRIENDS OF JOANNA MCCLINTON",
+      "FRIENDS OF JOANNA MCCLINTON PAC",
+      "FRIENDS OF JOE CIRESI",
+      "FRIENDS OF JOE HOHENSTEIN",
+      "FRIENDS OF JOE WEBSTER",
+      "FRIENDS OF JOHANNA MCCLINTON",
+      "FRIENDS OF KYLE MULLINS",
+      "FRIENDS OF LONGIETTI",
+      "FRIENDS OF MANNY GUZMAN",
+      "FRIENDS OF MARGO DAVIDSON",
+      "FRIENDS OF MARK ROZZI",
+      "FRIENDS OF MATT BRADFORD",
+      "FRIENDS OF MAUREEN MADDEN",
+      "FRIENDS OF MELISSA SHUSTERMAN",
+      "FRIENDS OF MICHAEL CARROLL",
+      "FRIENDS OF MICHAEL SCHLOSSBERG",
+      "FRIENDS OF MIKE CARROLL",
+      "FRIENDS OF MIKE CARROLL FOR STATE REPRESENTATIVE",
+      "FRIENDS OF MIKE DRISCOLL",
+      "FRIENDS OF MIKE SCHLOSSBERG",
+      "FRIENDS OF MIKE ZABEL",
+      "FRIENDS OF MORGAN CEPHAS",
+      "FRIENDS OF NAPOLEON NELSON",
+      "FRIENDS OF PAT HARKINS",
+      "FRIENDS OF PATTY KIM",
+      "FRIENDS OF PETER SCHWEYER",
+      "FRIENDS OF REGINA YOUNG",
+      "FRIENDS OF REGINA YOUNG 185",
+      "FRIENDS OF SCOTT CONKLIN",
+      "FRIENDS OF STEPHEN KINSEY",
+      "FRIENDS OF STEVE MALAGARI",
+      "FRIENDS OF STEVE SAMUELSON",
+      "FRIENDS OF STEVEN KINSEY",
+      "FRIENDS OF TIM BRIGGS",
+      "FRIENDS OF TINA DAVIS",
+      "FRIENDS OF TINA DAVIS DAVIS",
+      "Galloway John",
+      "GALLOWAY JOHN FOR STATE REP",
+      "Gerald Mullery",
+      "Guzman Manny",
+      "Harkins Pat",
+      "Harris Jordan",
+      "HARRIS JORDAN CITIZENS FOR",
+      "Herrin Dianne",
+      "Hohenstein Joe",
+      "HOHENSTEIN JOE ELECT",
+      "Isabella Fitzgerald",
+      "Jake Wheatley",
+      "Jason Dawkins",
+      "Jeanne McNeill",
+      "Jennifer O'Mara",
+      "Jim Marshall",
+      "Joanna McClinton",
+      "Joe Ciresi",
+      "Joe Hohenstein",
+      "Joe Webster",
+      "John Galloway",
+      "JOHN GALLOWAY FOR STATE REP",
+      "JOHN GALLOWAY FOR STATE REPRESENTATIVE",
+      "Jordan Harris",
+      "JORDAN HARRIS CITIZENS FOR",
+      "Joseph Markosek",
+      "Kim Patty",
+      "KIM PATTY FRIENDS OF",
+      "Kinsey Stephen",
+      "Kosierowski Bridget",
+      "KOSIEROWSKI BRIDGET FRIENDS OF",
+      "Krueger Leanne",
+      "Kulik Astorino Anita",
+      "KULIK ASTORINO ANITA FRIENDS OF",
+      "Kyle Mullins",
+      "Leanne Krueger",
+      "LEANNE KRUEGER FOR PA",
+      "Longietti Mark",
+      "Madden Maureen",
+      "MALAGARI FRIENDS OF",
+      "Malagari Steve",
+      "Manny Guzman",
+      "Margo Davidson",
+      "Mark Longietti",
+      "Mark Rozzi",
+      "MARKOSEK FOR STATE LEGISLATIVE",
+      "MARKOSEK FOR STATE LEGISLATOR",
+      "MARKOSEK FOR STATE LEGISLATURE",
+      "MARKOSEK FOR STATE LEGISLATURE COMMITTEE",
+      "Markosek Joseph",
+      "MARKOSEK JOSEPH FOR STATE LEG COM",
+      "Marshall Jim",
+      "Matt Bradford",
+      "Matzie Robert",
+      "MATZIE ROBERT PEOPLE FOR",
+      "MAUREEN FRIENDS OF MADDEN",
+      "Maureen Madden",
+      "McClinton Joanna",
+      "MCCLINTON JOANNA FRIENDS OF",
+      "MCNEILL FOR PA",
+      "McNeill Jeanne",
+      "Melissa Shusterman",
+      "Merski Bob",
+      "Mike Carroll",
+      "Mike Driscoll",
+      "Mike Schlossberg",
+      "Mike Sturla",
+      "Mike Zabel",
+      "Miller Dan",
+      "MILLER DAN FRIENDS OF",
+      "Mindy Fee",
+      "Morgan Cephas",
+      "Mullery Gerald",
+      "Mullins Kyle",
+      "MULLINS KYLE FRIENDS OF",
+      "Napoleon Nelson",
+      "Nelson Napoleon",
+      "O'Mara Jennifer",
+      "Pam Snyder",
+      "Pashinski Day Eddie",
+      "Pat Harkins",
+      "Patty Kim",
+      "PEOPLE FOR MATZIE",
+      "Perry Warren",
+      "PERRY WARREN FOR STATE REP",
+      "PERRY WARREN FOR STATE REPRESENTATIVE",
+      "Peter Schweyer",
+      "Regina Young",
+      "Robert Freeman",
+      "Robert Matzie",
+      "Rozzi Mark",
+      "ROZZI MARK FRIENDS OF",
+      "Ryan Bizzarro",
+      "Samuelson Steve",
+      "Sanchez Ben",
+      "SANCHEZ BEN FRIENDS OF",
+      "Sappey Christina",
+      "Schlossberg Mike",
+      "SCHLOSSBERG MIKE FRIENDS OF",
+      "Schweyer Peter",
+      "SCHWEYER PETER FRIENDS OF",
+      "Scott Conklin",
+      "Shusterman Melissa",
+      "Snyder Pam",
+      "Stephen Kinsey",
+      "Steve Malagari",
+      "STEVE MALAGARI FRIENDS OF",
+      "Steve Samuelson",
+      "STURLA FOR STATE REPRESENTATIVE",
+      "Sturla Mike",
+      "STURLA MIKE FOR STATE REP",
+      "Tim Briggs",
+      "TIM BRIGGS FOR STATE REP",
+      "TIM BRIGGS FOR STATE REPRESENTATIVE",
+      "TIM BRIGGS FOR STATE REPRESENTITIVE",
+      "Tina Davis",
+      "Tony DeLuca",
+      "Warren Perry",
+      "WARREN PERRY FOR STATE REPRESENTATIVE",
+      "Webster Joe",
+      "WHEATLEY CITIZENS FOR JAKE",
+      "Wheatley Jake",
+      "Williams Dan",
+      "Young Regina",
+      "Zabel Mike"
+    ],
+    "url": "https://www.palegis.us/house/roll-calls/summary?sessYr=2021&sessInd=0&rcNum=470",
+    "title": "House Roll Call Vote Summary #470",
+    "claim": "The official house roll call records these lawmakers voting Yea on June 25, 2021 on HB 952 PN 1934. The enacted bill created a sales and use tax exemption for computer data center equipment. Donor matches use reviewed full personal names and campaign-committee aliases.",
+    "evidence_date": "2021-06-25",
+    "accessed": "2026-09-15",
+    "geography": "Pennsylvania",
+    "status": "Documented lawmaker vote connection",
+    "contributor_only": true,
+    "roll_call_vote_count": 170,
+    "reviewed_lawmakers": [
+      {
+        "roll_call_name": "FRANKEL",
+        "full_name": "Dan Frankel"
+      },
+      {
+        "roll_call_name": "FREEMAN",
+        "full_name": "Robert Freeman"
+      },
+      {
+        "roll_call_name": "LONGIETTI",
+        "full_name": "Mark Longietti"
+      },
+      {
+        "roll_call_name": "BIZZARRO",
+        "full_name": "Ryan Bizzarro"
+      },
+      {
+        "roll_call_name": "GALLOWAY",
+        "full_name": "John Galloway"
+      },
+      {
+        "roll_call_name": "MADDEN",
+        "full_name": "Maureen Madden"
+      },
+      {
+        "roll_call_name": "ROZZI",
+        "full_name": "Mark Rozzi"
+      },
+      {
+        "roll_call_name": "MALAGARI",
+        "full_name": "Steve Malagari"
+      },
+      {
+        "roll_call_name": "SAMUELSON",
+        "full_name": "Steve Samuelson"
+      },
+      {
+        "roll_call_name": "BRADFORD",
+        "full_name": "Matt Bradford"
+      },
+      {
+        "roll_call_name": "MARKOSEK",
+        "full_name": "Joseph Markosek"
+      },
+      {
+        "roll_call_name": "SANCHEZ",
+        "full_name": "Ben Sanchez"
+      },
+      {
+        "roll_call_name": "BRIGGS",
+        "full_name": "Tim Briggs"
+      },
+      {
+        "roll_call_name": "MARSHALL",
+        "full_name": "Jim Marshall"
+      },
+      {
+        "roll_call_name": "SAPPEY",
+        "full_name": "Christina Sappey"
+      },
+      {
+        "roll_call_name": "BROWN, A.",
+        "full_name": "Amen Brown"
+      },
+      {
+        "roll_call_name": "MATZIE",
+        "full_name": "Robert Matzie"
+      },
+      {
+        "roll_call_name": "GUZMAN",
+        "full_name": "Manny Guzman"
+      },
+      {
+        "roll_call_name": "MCCLINTON",
+        "full_name": "Joanna McClinton"
+      },
+      {
+        "roll_call_name": "BULLOCK",
+        "full_name": "Donna Bullock"
+      },
+      {
+        "roll_call_name": "MCNEILL",
+        "full_name": "Jeanne McNeill"
+      },
+      {
+        "roll_call_name": "SCHLOSSBERG",
+        "full_name": "Mike Schlossberg"
+      },
+      {
+        "roll_call_name": "BURGOS",
+        "full_name": "Danilo Burgos"
+      },
+      {
+        "roll_call_name": "HARKINS",
+        "full_name": "Pat Harkins"
+      },
+      {
+        "roll_call_name": "CARROLL",
+        "full_name": "Mike Carroll"
+      },
+      {
+        "roll_call_name": "HARRIS",
+        "full_name": "Jordan Harris"
+      },
+      {
+        "roll_call_name": "SCHWEYER",
+        "full_name": "Peter Schweyer"
+      },
+      {
+        "roll_call_name": "MERSKI",
+        "full_name": "Bob Merski"
+      },
+      {
+        "roll_call_name": "SHUSTERMAN",
+        "full_name": "Melissa Shusterman"
+      },
+      {
+        "roll_call_name": "CEPHAS",
+        "full_name": "Morgan Cephas"
+      },
+      {
+        "roll_call_name": "CIRESI",
+        "full_name": "Joe Ciresi"
+      },
+      {
+        "roll_call_name": "CONKLIN",
+        "full_name": "Scott Conklin"
+      },
+      {
+        "roll_call_name": "HERRIN",
+        "full_name": "Dianne Herrin"
+      },
+      {
+        "roll_call_name": "SNYDER",
+        "full_name": "Pam Snyder"
+      },
+      {
+        "roll_call_name": "MILLER, D.",
+        "full_name": "Dan Miller"
+      },
+      {
+        "roll_call_name": "HOHENSTEIN",
+        "full_name": "Joe Hohenstein"
+      },
+      {
+        "roll_call_name": "MULLERY",
+        "full_name": "Gerald Mullery"
+      },
+      {
+        "roll_call_name": "DAVIDSON",
+        "full_name": "Margo Davidson"
+      },
+      {
+        "roll_call_name": "MULLINS",
+        "full_name": "Kyle Mullins"
+      },
+      {
+        "roll_call_name": "DAVIS, A.",
+        "full_name": "Austin Davis"
+      },
+      {
+        "roll_call_name": "STURLA",
+        "full_name": "Mike Sturla"
+      },
+      {
+        "roll_call_name": "DAVIS, T.",
+        "full_name": "Tina Davis"
+      },
+      {
+        "roll_call_name": "DAWKINS",
+        "full_name": "Jason Dawkins"
+      },
+      {
+        "roll_call_name": "NELSON, N.",
+        "full_name": "Napoleon Nelson"
+      },
+      {
+        "roll_call_name": "PASHINSKI",
+        "full_name": "Eddie Day Pashinski"
+      },
+      {
+        "roll_call_name": "DEASY",
+        "full_name": "Dan Deasy"
+      },
+      {
+        "roll_call_name": "O'MARA",
+        "full_name": "Jennifer O'Mara"
+      },
+      {
+        "roll_call_name": "DELLOSO",
+        "full_name": "Dave Delloso"
+      },
+      {
+        "roll_call_name": "WARREN",
+        "full_name": "Perry Warren"
+      },
+      {
+        "roll_call_name": "DELUCA",
+        "full_name": "Tony DeLuca"
+      },
+      {
+        "roll_call_name": "KIM",
+        "full_name": "Patty Kim"
+      },
+      {
+        "roll_call_name": "WEBSTER",
+        "full_name": "Joe Webster"
+      },
+      {
+        "roll_call_name": "KINSEY",
+        "full_name": "Stephen Kinsey"
+      },
+      {
+        "roll_call_name": "WHEATLEY",
+        "full_name": "Jake Wheatley"
+      },
+      {
+        "roll_call_name": "DRISCOLL",
+        "full_name": "Mike Driscoll"
+      },
+      {
+        "roll_call_name": "WILLIAMS, D.",
+        "full_name": "Dan Williams"
+      },
+      {
+        "roll_call_name": "KOSIEROWSKI",
+        "full_name": "Bridget Kosierowski"
+      },
+      {
+        "roll_call_name": "YOUNG",
+        "full_name": "Regina Young"
+      },
+      {
+        "roll_call_name": "KRUEGER",
+        "full_name": "Leanne Krueger"
+      },
+      {
+        "roll_call_name": "ZABEL",
+        "full_name": "Mike Zabel"
+      },
+      {
+        "roll_call_name": "FEE",
+        "full_name": "Mindy Fee"
+      },
+      {
+        "roll_call_name": "KULIK",
+        "full_name": "Anita Astorino Kulik"
+      },
+      {
+        "roll_call_name": "FITZGERALD",
+        "full_name": "Isabella Fitzgerald"
+      }
+    ]
+  },
+  {
+    "id": "hb952_senate_yes",
+    "name": "HB 952 Senate Yea voters and campaign committees",
+    "category": "Lawmaker vote / campaign committee",
+    "aliases": [
+      "Art Haywood",
+      "Boscola Lisa",
+      "Brewster Jim",
+      "CAMPAIGN FOR COMPASSION COMMITTEE ART HAYWOOD",
+      "Carolyn Comitta",
+      "Christine Tartaglione",
+      "CITIZENS FOR HUGHES",
+      "CITIZENS FOR JOHN YUDICHAK",
+      "CITIZENS FOR VINCENT HUGHES",
+      "Collett Maria",
+      "Comitta Carolyn",
+      "COMITTA CAROLYN FRIENDS OF",
+      "COMMITTEE ELECT JIM BREWSTER",
+      "COMMITTEE FOR JIM BREWSTER",
+      "COMMITTEE TO ELECT JIM BREWSTER",
+      "COMMITTEE TO ELECT WAYNE FONTANA",
+      "COMMITTEE TO RE-ELECT JOHN SABATINA JR",
+      "Costa Jay",
+      "COSTA JAY JR FOR STATE SENATE",
+      "Flynn Marty",
+      "Fontana Wayne",
+      "FRIENDS FOR JUDY SCHWANK",
+      "FRIENDS OF CAROLYN COMITTA",
+      "FRIENDS OF CHRISTINE TARTAGLIONE",
+      "FRIENDS OF JOE PITTMAN",
+      "FRIENDS OF JUDY SCHWANK",
+      "FRIENDS OF LISA BOSCOLA",
+      "FRIENDS OF LIZA BOSCOLA",
+      "FRIENDS OF MARTY FLYNN",
+      "FRIENDS OF SHARIF STREET",
+      "FRIENDS OF TIM KEARNEY",
+      "FRIENDS TO ELECT CHRISTINE M TARTAGLIONE",
+      "FRIENDS TO ELECT CHRISTINE TARTAGLIONE",
+      "Haywood Art",
+      "Hughes Vincent",
+      "HUGHES VINCENT CITIZENS FOR",
+      "Jay Costa",
+      "JAY COSTA FOR SENATE",
+      "JAY COSTA FOR STATE SENATE",
+      "JAY COSTA FOR STATE STREET",
+      "JAY COSTA JR FOR STATE SENATE",
+      "Jim Brewster",
+      "Joe Pittman",
+      "John Kane",
+      "JOHN KANE FOR SENATE",
+      "JOHN KANE FOR STATE SENATE",
+      "John Sabatina",
+      "John Yudichak",
+      "Judy Schwank",
+      "KANE FOR SENATE",
+      "Kane John",
+      "Kearney Tim",
+      "KEARNEY TIM FRIENDS OF",
+      "Lisa Boscola",
+      "Maria Collett",
+      "MARIA COLLETT FOR PA SENATE",
+      "Marty Flynn",
+      "Pittman Joe",
+      "Sabatina John",
+      "SANTARSIERO FOR SENATE",
+      "SANTARSIERO FOR STATE SENATE",
+      "Santarsiero Steve",
+      "SANTARSIERO STEVE FOR STATE SENATE",
+      "Schwank Judy",
+      "SCHWANK JUDY FRIENDS FOR",
+      "Sharif Street",
+      "SHARIF STREET FOR PA",
+      "Steve Santarsiero",
+      "STEVE SANTARSIERO FOR STATE REP",
+      "Street Sharif",
+      "STREET SHARIF FRIENDS OF",
+      "Tartaglione Christine",
+      "THE COMMITTE TO ELECT WAYNE FONTANA",
+      "Tim Kearney",
+      "TIM KEARNEY FOR PA STATE SENATE",
+      "Vincent Hughes",
+      "VINCENT HUGHES CITIZENS FOR",
+      "Wayne Fontana",
+      "Yudichak John"
+    ],
+    "url": "https://www.palegis.us/senate/roll-calls/summary?sessYr=2021&sessInd=0&rcNum=260",
+    "title": "Senate Roll Call Vote Summary #260",
+    "claim": "The official senate roll call records these lawmakers voting Yea on June 25, 2021 on HB 952 PN 1934. The enacted bill created a sales and use tax exemption for computer data center equipment. Donor matches use reviewed full personal names and campaign-committee aliases.",
+    "evidence_date": "2021-06-25",
+    "accessed": "2026-09-15",
+    "geography": "Pennsylvania",
+    "status": "Documented lawmaker vote connection",
+    "contributor_only": true,
+    "roll_call_vote_count": 46,
+    "reviewed_lawmakers": [
+      {
+        "roll_call_name": "STREET",
+        "full_name": "Sharif Street"
+      },
+      {
+        "roll_call_name": "FLYNN",
+        "full_name": "Marty Flynn"
+      },
+      {
+        "roll_call_name": "TARTAGLIONE",
+        "full_name": "Christine Tartaglione"
+      },
+      {
+        "roll_call_name": "FONTANA",
+        "full_name": "Wayne Fontana"
+      },
+      {
+        "roll_call_name": "BOSCOLA",
+        "full_name": "Lisa Boscola"
+      },
+      {
+        "roll_call_name": "BREWSTER",
+        "full_name": "Jim Brewster"
+      },
+      {
+        "roll_call_name": "PITTMAN",
+        "full_name": "Joe Pittman"
+      },
+      {
+        "roll_call_name": "HAYWOOD",
+        "full_name": "Art Haywood"
+      },
+      {
+        "roll_call_name": "HUGHES",
+        "full_name": "Vincent Hughes"
+      },
+      {
+        "roll_call_name": "SABATINA",
+        "full_name": "John Sabatina"
+      },
+      {
+        "roll_call_name": "COLLETT",
+        "full_name": "Maria Collett"
+      },
+      {
+        "roll_call_name": "KANE",
+        "full_name": "John Kane"
+      },
+      {
+        "roll_call_name": "SANTARSIERO",
+        "full_name": "Steve Santarsiero"
+      },
+      {
+        "roll_call_name": "COMITTA",
+        "full_name": "Carolyn Comitta"
+      },
+      {
+        "roll_call_name": "KEARNEY",
+        "full_name": "Tim Kearney"
+      },
+      {
+        "roll_call_name": "YUDICHAK",
+        "full_name": "John Yudichak"
+      },
+      {
+        "roll_call_name": "COSTA",
+        "full_name": "Jay Costa"
+      },
+      {
+        "roll_call_name": "SCHWANK",
+        "full_name": "Judy Schwank"
+      }
+    ]
   }
 ]

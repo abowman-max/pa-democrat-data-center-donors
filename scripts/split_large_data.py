@@ -2,6 +2,8 @@
 import json,pathlib
 p=pathlib.Path(__file__).resolve().parents[1]/'docs/data'
 limit=6_500_000
+for stale in p.glob('c*-part-*.json'):
+ stale.unlink()
 for f in p.glob('c*.json'):
  if '-part-' in f.name or f.stat().st_size<8_000_000:continue
  d=json.loads(f.read_text());parts=[];chunk=[];size=0

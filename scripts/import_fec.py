@@ -143,10 +143,12 @@ def load_candidate(candidate_id):
     return payload
 
 
-def match_entities(value, entities):
+def match_entities(value, entities, field):
     text = norm(value)
     matches = []
     for entity in entities:
+        if field == "employer" and entity.get("contributor_only"):
+            continue
         if entity["id"] == "ibew" and re.search(r"\b(LOCAL|LU|L U)\s*\d", text):
             continue
         if any(alias_present(text, alias) for alias in entity["_aliases"]):
@@ -176,14 +178,15 @@ def parse_committee(path, entities):
             year = int(raw_date[:4]) if date_valid else int(row.get("report_year") or 0)
             donor = row.get("contributor_name") or row.get("contributor") or "(blank contributor name)"
             employer = row.get("contributor_employer") or ""
-            direct = match_entities(donor, entities)
-            employed = match_entities(employer, entities)
+            direct = match_entities(donor, entities, "contributor")
+            employed = match_entities(employer, entities, "employer")
             associations = []
             for entity_id in direct:
+                lawmaker = next(entity for entity in entities if entity["id"] == entity_id).get("contributor_only")
                 organization = bool(re.search(r"\b(PAC|COPE|POLITICAL|GOVT|GOVERNMENT|COMMITTEE)\b", norm(donor)))
                 associations.append({
                     "entity": entity_id,
-                    "basis": "PAC / organization name" if organization else "Organization name",
+                    "basis": "Lawmaker / campaign committee name" if lawmaker else ("PAC / organization name" if organization else "Organization name"),
                     "field": "contributor", "value": donor,
                 })
             for entity_id in employed:
@@ -268,8 +271,9 @@ def main():
 
     bulk = ensure_linkage_files(args.work_dir)
     linkages = read_linkages(bulk)
-    api_key = get_download_key()
     all_committees = sorted({committee_id for rows in linkages.values() for committee_id in rows})
+    missing_raw = [committee_id for committee_id in all_committees if not (args.work_dir / "raw" / f"{committee_id}.csv").exists()]
+    api_key = get_download_key() if missing_raw else None
     for index, committee_id in enumerate(all_committees, 1):
         print(f"FEC export {index}/{len(all_committees)}: {committee_id}", flush=True)
         export_committee(committee_id, args.work_dir, api_key, args.max_date)

@@ -30,16 +30,16 @@ The site has no server, database, tracking code, or build step. All published re
 
 - 230 unique candidate, office, and district records from the supplied 2026 workbook.
 - 601,558 itemized contribution entries: 390,126 from the supplied Pennsylvania archives and 211,432 official FEC Schedule A contribution records.
-- 44 reviewed organizations with documented data-center connections.
-- 5,950 contribution-to-organization associations identified by an exact reviewed name or reported-employer alias.
-- Direct links from each contribution to the Pennsylvania filing viewer and to the public evidence supporting each organization’s data-center connection.
+- 44 reviewed organizations with documented data-center connections, plus the House and Senate HB 952 Yea-voter registries.
+- 8,652 contribution-to-connection associations identified by an exact reviewed name or reported-employer alias. This includes 2,702 contribution entries from clearly identified lawmakers and campaign committees that voted for HB 952.
+- Direct links from each contribution to its campaign-finance source and to the evidence supporting each documented connection.
 - A downloadable evidence packet in `docs/evidence/source-packet.zip`.
 
 Money is stored as integer cents in the website data. Pennsylvania cash includes DOS sections IA, IB, IC, and ID; in-kind contributions include sections IIF and IIG. Federal records include processed FEC Schedule A contribution lines 11AI, 11B, 11C, and 11D. Memoed subtotals are excluded to avoid counting conduit totals on top of the underlying contributions.
 
 ## Important limits
 
-This is a research index, not a finding that every matched donor personally supports a data-center project. An association can arise because the contribution name is a reviewed organization or PAC, or because an individual reported a reviewed organization as an employer. The evidence establishes the organization’s connection; it does not establish an individual donor’s role, views, or financial interest. Contributions can predate the cited evidence.
+This is a research index, not a finding that every matched donor personally supports a data-center project. An association can arise because the contribution name is a reviewed organization or PAC, because an individual reported a reviewed organization as an employer, or because the donor is a clearly identified lawmaker or campaign committee whose legislator voted Yea on HB 952. The evidence establishes the cited connection; it does not establish why a contribution was made, the recipient candidate's position, or wrongdoing. Contributions can predate the cited evidence.
 
 The 17 U.S. House candidates are linked to 18 authorized committees through official FEC candidate-committee linkage files. Their processed Schedule A records cover January 1, 2016 through September 15, 2026. Unitemized federal receipts, transfers, loans, other receipts, refunds, debts, and spending are outside this donor report. Some state candidates lack a confidently matched campaign committee. The interface shows coverage warnings rather than treating missing records as zero activity. Unitemized contributions and records with blank employer fields cannot be connected to a donor through this method.
 
@@ -52,6 +52,7 @@ See [METHODOLOGY.md](METHODOLOGY.md) for the selection rules, evidence standard,
 - `docs/` — GitHub Pages website and compact candidate-level data files.
 - `docs/evidence/` — evidence register, available original PDFs, checksums, and source packet.
 - `research/entities.json` — reviewed entity aliases, connection claims, evidence dates, and URLs.
+- `research/hb952_rollcall_aliases.json` — full roll-call names, reviewed lawmaker aliases, matched donor names, and exclusions for the HB 952 vote connection.
 - `research/all_donors.csv` — candidate-level donor rollups for audit and analysis.
 - `research/documented_connections.csv` — every published contribution-to-entity association.
 - `research/candidate_mappings.json` — candidate-to-filer mapping decisions and coverage status.
@@ -62,10 +63,11 @@ See [METHODOLOGY.md](METHODOLOGY.md) for the selection rules, evidence standard,
 
 ## Refresh from DOS archives
 
-Python 3 is sufficient; the refresh scripts use only the standard library.
+The data refresh uses Python 3. Rebuilding the HB 952 roll-call audit also requires Poppler's `pdftotext` utility; rebuilding the authored PDF source register requires the PDF dependencies described in the project workflow.
 
 ```bash
 python3 scripts/import_dos.py "/path/to/Raw Data (DOS)" work
+python3 scripts/add_hb952_connections.py
 python3 scripts/build_data.py work
 python3 scripts/import_fec.py
 python3 scripts/split_large_data.py
