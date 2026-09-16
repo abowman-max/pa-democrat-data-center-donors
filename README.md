@@ -8,7 +8,7 @@ In the explorer:
 
 1. Choose an **office** and **All candidates** to compare the full 2026 roster for that office by contribution count and amount.
 2. Choose **All donors** or **Data-center connections** to change the comparison totals, then optionally narrow by year, contribution type, or connection basis.
-3. Select **View donors** beside a candidate to drill into that candidate's donor records and source links.
+3. Sort either table by amount, contribution count, or name; then select **View donors** beside a candidate to drill into that candidate's donor records and source links.
 4. Use **Export table** or **Export contributions** to download the current filtered report.
 
 The website files are in `docs/`. A root `index.html` also redirects to that folder for hosts that publish the repository root.
