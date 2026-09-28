@@ -56,6 +56,7 @@ def main():
     federal_transactions = 0
     documented_associations = 0
     donor_groups = 0
+    new_transactions = 0
     for candidate in meta["candidates"]:
         payload = load_candidate(candidate["id"])
         assert payload["candidate"]["id"] == candidate["id"]
@@ -69,6 +70,11 @@ def main():
             for transaction in donor["transactions"]:
                 assert isinstance(transaction["cents"], int)
                 assert transaction["cents"] != 0
+                assert isinstance(transaction.get("new_since_previous"), bool)
+                if transaction["new_since_previous"]:
+                    assert transaction.get("source", "PA DOS") != "FEC"
+                    assert transaction["year"] == 2026
+                    new_transactions += 1
                 if transaction.get("source") == "FEC":
                     assert transaction["section"] in {"FEC-11AI", "FEC-11B", "FEC-11C", "FEC-11D"}
                     assert transaction["filing_url"].startswith("https://")
@@ -84,6 +90,7 @@ def main():
 
     assert total_transactions == meta["total_transactions"]
     assert federal_transactions == meta["federal_transactions"]
+    assert new_transactions == meta["quality"]["comparison"]["new_transactions"]
     federal_candidates = [candidate for candidate in meta["candidates"] if candidate["office_code"] == "USC"]
     assert len(federal_candidates) == 17
     assert all(candidate.get("fec_candidate_id") and not candidate["federal_gap"] for candidate in federal_candidates)
@@ -117,6 +124,7 @@ def main():
         "federal_transactions": federal_transactions,
         "donor_groups": donor_groups,
         "documented_associations": documented_associations,
+        "new_since_previous": new_transactions,
         "entities": len(entity_ids),
         "coverage_gaps": len(meta["coverage_gaps"]),
         "superseded_reports": meta["superseded_report_count"],

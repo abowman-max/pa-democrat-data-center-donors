@@ -1,0 +1,52 @@
+{
+  "refresh_id": "pa-dos-2026-09-25",
+  "published_update_date": "2026-09-28",
+  "scope": "Replace the 2026 Pennsylvania DOS archive; 2016-2025 archives and cached FEC data unchanged.",
+  "prior_2026_archive": {
+    "bytes": 9461473,
+    "contribution_rows": 375969,
+    "filer_rows": 5199,
+    "sha256": "23d385ac3bead1c787c4db9a31642f731148e9bcddd50c943b41a870c959537e"
+  },
+  "current_2026_archive": {
+    "bytes": 14190875,
+    "contribution_rows": 580721,
+    "filer_rows": 5837,
+    "sha256": "f33227a2136a7ea3aa864ddc034dd013e5cbfc1f8e7e544ac0161db1d492ea44",
+    "source_file": "2026.zip supplied by user"
+  },
+  "selected_state_transactions": {
+    "prior": 390126,
+    "current": 429791,
+    "net_change": 39665,
+    "added": 39763,
+    "removed": 98
+  },
+  "selected_2026_transactions": {
+    "prior": 48028,
+    "current": 87693,
+    "net_change": 39665
+  },
+  "unchanged_years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "comparison_method": "Multiset comparison of normalized transaction fields; report IDs and CSV row numbers are excluded.",
+  "quality": {
+    "malformed_rows": 1,
+    "superseded_reports": 47,
+    "schema_columns": {
+      "filer": 22,
+      "contribution": 26
+    }
+  },
+  "interpretation": "Added marks entries present in the current selected-report snapshot beyond the multiplicity found in the prior snapshot. Removed entries are not published because the current DOS report version controls."
+}

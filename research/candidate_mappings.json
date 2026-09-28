@@ -285,14 +285,14 @@
         "type": "2"
       }
     ],
-    "transaction_count": 217,
-    "donor_count": 164,
-    "report_count": 8,
+    "transaction_count": 347,
+    "donor_count": 230,
+    "report_count": 9,
     "has_committee": true,
     "federal_gap": false,
     "coverage": "Matched filings; committee mapping subject to review",
-    "last_submitted": "2026-07-08",
-    "dc_donor_count": 0
+    "last_submitted": "2026-09-15",
+    "dc_donor_count": 2
   },
   {
     "name": "ANDERSON, KRISTA JEAN",
@@ -674,11 +674,11 @@
     ],
     "transaction_count": 0,
     "donor_count": 0,
-    "report_count": 2,
+    "report_count": 3,
     "has_committee": false,
     "federal_gap": false,
     "coverage": "Candidate reports only; committee match unresolved",
-    "last_submitted": "2026-06-08",
+    "last_submitted": "2026-09-21",
     "dc_donor_count": 0
   },
   {
@@ -824,13 +824,13 @@
         "type": "1"
       }
     ],
-    "transaction_count": 1304,
-    "donor_count": 696,
-    "report_count": 59,
+    "transaction_count": 1305,
+    "donor_count": 697,
+    "report_count": 60,
     "has_committee": true,
     "federal_gap": false,
     "coverage": "Matched filings; committee mapping subject to review",
-    "last_submitted": "2026-08-07",
+    "last_submitted": "2026-09-18",
     "dc_donor_count": 47
   },
   {
@@ -969,11 +969,11 @@
     ],
     "transaction_count": 2637,
     "donor_count": 1136,
-    "report_count": 29,
+    "report_count": 30,
     "has_committee": true,
     "federal_gap": false,
     "coverage": "Matched filings; committee mapping subject to review",
-    "last_submitted": "2026-06-15",
+    "last_submitted": "2026-09-14",
     "dc_donor_count": 20
   },
   {
@@ -1231,13 +1231,13 @@
         "type": "1"
       }
     ],
-    "transaction_count": 3991,
-    "donor_count": 1485,
-    "report_count": 82,
+    "transaction_count": 4005,
+    "donor_count": 1490,
+    "report_count": 83,
     "has_committee": true,
     "federal_gap": false,
     "coverage": "Matched filings; committee mapping subject to review",
-    "last_submitted": "2026-08-12",
+    "last_submitted": "2026-09-23",
     "dc_donor_count": 59
   },
   {
@@ -1292,13 +1292,13 @@
         "type": "1"
       }
     ],
-    "transaction_count": 90,
-    "donor_count": 83,
-    "report_count": 6,
+    "transaction_count": 167,
+    "donor_count": 141,
+    "report_count": 7,
     "has_committee": true,
     "federal_gap": false,
     "coverage": "Matched filings; committee mapping subject to review",
-    "last_submitted": "2026-06-09",
+    "last_submitted": "2026-09-20",
     "dc_donor_count": 0
   },
   {
@@ -2440,13 +2440,13 @@
         "type": "1"
       }
     ],
-    "transaction_count": 64,
-    "donor_count": 57,
-    "report_count": 8,
+    "transaction_count": 78,
+    "donor_count": 63,
+    "report_count": 9,
     "has_committee": true,
     "federal_gap": false,
     "coverage": "Matched filings; committee mapping subject to review",
-    "last_submitted": "2026-06-11",
+    "last_submitted": "2026-09-21",
     "dc_donor_count": 0
   },
   {
@@ -2755,13 +2755,13 @@
         "type": "1"
       }
     ],
-    "transaction_count": 2257,
-    "donor_count": 1351,
-    "report_count": 81,
+    "transaction_count": 2278,
+    "donor_count": 1362,
+    "report_count": 82,
     "has_committee": true,
     "federal_gap": false,
     "coverage": "Matched filings; committee mapping subject to review",
-    "last_submitted": "2026-06-17",
+    "last_submitted": "2026-09-21",
     "dc_donor_count": 81
   },
   {
@@ -2959,13 +2959,13 @@
         "type": "1"
       }
     ],
-    "transaction_count": 2,
-    "donor_count": 2,
-    "report_count": 2,
+    "transaction_count": 5,
+    "donor_count": 4,
+    "report_count": 3,
     "has_committee": false,
     "federal_gap": false,
     "coverage": "Candidate reports only; committee match unresolved",
-    "last_submitted": "2026-06-18",
+    "last_submitted": "2026-09-19",
     "dc_donor_count": 0
   },
   {
@@ -3276,13 +3276,13 @@
         "type": "1"
       }
     ],
-    "transaction_count": 5,
-    "donor_count": 3,
-    "report_count": 5,
+    "transaction_count": 16,
+    "donor_count": 12,
+    "report_count": 6,
     "has_committee": true,
     "federal_gap": false,
     "coverage": "Matched filings; committee mapping subject to review",
-    "last_submitted": "2026-06-18",
+    "last_submitted": "2026-09-21",
     "dc_donor_count": 0
   },
   {
@@ -3491,14 +3491,14 @@
         "type": "1"
       }
     ],
-    "transaction_count": 23,
-    "donor_count": 21,
-    "report_count": 4,
+    "transaction_count": 50,
+    "donor_count": 45,
+    "report_count": 5,
     "has_committee": true,
     "federal_gap": false,
     "coverage": "Matched filings; committee mapping subject to review",
-    "last_submitted": "2026-06-11",
-    "dc_donor_count": 0
+    "last_submitted": "2026-09-16",
+    "dc_donor_count": 1
   },
   {
     "name": "FARNHAM, ELIZABETH RHOADS",
@@ -3775,13 +3775,13 @@
         "type": "1"
       }
     ],
-    "transaction_count": 2550,
-    "donor_count": 1345,
-    "report_count": 67,
+    "transaction_count": 2693,
+    "donor_count": 1393,
+    "report_count": 68,
     "has_committee": true,
     "federal_gap": false,
     "coverage": "Matched filings; committee mapping subject to review",
-    "last_submitted": "2026-06-18",
+    "last_submitted": "2026-09-22",
     "dc_donor_count": 43
   },
   {
@@ -4235,11 +4235,11 @@
     ],
     "transaction_count": 0,
     "donor_count": 0,
-    "report_count": 2,
+    "report_count": 3,
     "has_committee": false,
     "federal_gap": false,
     "coverage": "Candidate reports only; committee match unresolved",
-    "last_submitted": "2026-06-15",
+    "last_submitted": "2026-09-19",
     "dc_donor_count": 0
   },
   {
@@ -4427,14 +4427,14 @@
         "type": "1"
       }
     ],
-    "transaction_count": 131,
-    "donor_count": 124,
-    "report_count": 11,
+    "transaction_count": 150,
+    "donor_count": 137,
+    "report_count": 13,
     "has_committee": false,
     "federal_gap": false,
     "coverage": "Candidate reports only; committee match unresolved",
-    "last_submitted": "2026-06-12",
-    "dc_donor_count": 5
+    "last_submitted": "2026-09-15",
+    "dc_donor_count": 6
   },
   {
     "name": "GOURLEY, LISA M",
@@ -4470,11 +4470,11 @@
     ],
     "transaction_count": 64,
     "donor_count": 55,
-    "report_count": 5,
+    "report_count": 6,
     "has_committee": true,
     "federal_gap": false,
     "coverage": "Matched filings; committee mapping subject to review",
-    "last_submitted": "2026-06-11",
+    "last_submitted": "2026-09-18",
     "dc_donor_count": 0
   },
   {
@@ -5426,13 +5426,13 @@
         "type": "1"
       }
     ],
-    "transaction_count": 133,
-    "donor_count": 80,
-    "report_count": 7,
+    "transaction_count": 196,
+    "donor_count": 105,
+    "report_count": 8,
     "has_committee": true,
     "federal_gap": false,
     "coverage": "Matched filings; committee mapping subject to review",
-    "last_submitted": "2026-06-18",
+    "last_submitted": "2026-09-15",
     "dc_donor_count": 0
   },
   {
@@ -5671,13 +5671,13 @@
         "type": "2"
       }
     ],
-    "transaction_count": 0,
-    "donor_count": 0,
-    "report_count": 1,
+    "transaction_count": 8,
+    "donor_count": 1,
+    "report_count": 4,
     "has_committee": true,
     "federal_gap": false,
     "coverage": "Matched filings; committee mapping subject to review",
-    "last_submitted": "2026-02-19",
+    "last_submitted": "2026-09-14",
     "dc_donor_count": 0
   },
   {
@@ -5855,13 +5855,13 @@
         "type": "2"
       }
     ],
-    "transaction_count": 110,
-    "donor_count": 81,
-    "report_count": 7,
+    "transaction_count": 176,
+    "donor_count": 111,
+    "report_count": 9,
     "has_committee": true,
     "federal_gap": false,
     "coverage": "Matched filings; committee mapping subject to review",
-    "last_submitted": "2026-06-18",
+    "last_submitted": "2026-09-21",
     "dc_donor_count": 0
   },
   {
@@ -6008,13 +6008,13 @@
         "type": "2"
       }
     ],
-    "transaction_count": 29,
-    "donor_count": 25,
+    "transaction_count": 46,
+    "donor_count": 37,
     "report_count": 7,
     "has_committee": true,
     "federal_gap": false,
     "coverage": "Matched filings; committee mapping subject to review",
-    "last_submitted": "2026-06-16",
+    "last_submitted": "2026-09-14",
     "dc_donor_count": 0
   },
   {
@@ -6049,14 +6049,14 @@
         "type": "1"
       }
     ],
-    "transaction_count": 318,
-    "donor_count": 290,
+    "transaction_count": 349,
+    "donor_count": 309,
     "report_count": 3,
     "has_committee": true,
     "federal_gap": false,
     "coverage": "Matched filings; committee mapping subject to review",
-    "last_submitted": "2026-06-18",
-    "dc_donor_count": 1
+    "last_submitted": "2026-09-24",
+    "dc_donor_count": 2
   },
   {
     "name": "JOHNSON, THOMAS S",
@@ -6131,13 +6131,13 @@
         "type": "2"
       }
     ],
-    "transaction_count": 23,
-    "donor_count": 21,
-    "report_count": 4,
+    "transaction_count": 74,
+    "donor_count": 37,
+    "report_count": 7,
     "has_committee": true,
     "federal_gap": false,
     "coverage": "Matched filings; committee mapping subject to review",
-    "last_submitted": "2026-06-30",
+    "last_submitted": "2026-09-24",
     "dc_donor_count": 0
   },
   {
@@ -6507,13 +6507,13 @@
         "type": "1"
       }
     ],
-    "transaction_count": 1344,
-    "donor_count": 589,
+    "transaction_count": 1353,
+    "donor_count": 594,
     "report_count": 47,
     "has_committee": true,
     "federal_gap": false,
     "coverage": "Matched filings; committee mapping subject to review",
-    "last_submitted": "2026-08-06",
+    "last_submitted": "2026-09-20",
     "dc_donor_count": 26
   },
   {
@@ -6619,13 +6619,13 @@
         "type": "1"
       }
     ],
-    "transaction_count": 2422,
-    "donor_count": 887,
-    "report_count": 54,
+    "transaction_count": 2532,
+    "donor_count": 917,
+    "report_count": 56,
     "has_committee": true,
     "federal_gap": false,
     "coverage": "Matched filings; committee mapping subject to review",
-    "last_submitted": "2026-06-16",
+    "last_submitted": "2026-09-21",
     "dc_donor_count": 31
   },
   {
@@ -7586,13 +7586,13 @@
         "type": "1"
       }
     ],
-    "transaction_count": 101,
-    "donor_count": 99,
+    "transaction_count": 94,
+    "donor_count": 90,
     "report_count": 9,
     "has_committee": true,
     "federal_gap": false,
     "coverage": "Matched filings; committee mapping subject to review",
-    "last_submitted": "2026-06-09",
+    "last_submitted": "2026-09-17",
     "dc_donor_count": 2
   },
   {
@@ -7800,13 +7800,13 @@
         "type": "2"
       }
     ],
-    "transaction_count": 31,
-    "donor_count": 24,
-    "report_count": 9,
+    "transaction_count": 46,
+    "donor_count": 38,
+    "report_count": 10,
     "has_committee": true,
     "federal_gap": false,
     "coverage": "Matched filings; committee mapping subject to review",
-    "last_submitted": "2026-06-18",
+    "last_submitted": "2026-09-24",
     "dc_donor_count": 2
   },
   {
@@ -8068,11 +8068,11 @@
     ],
     "transaction_count": 0,
     "donor_count": 0,
-    "report_count": 2,
+    "report_count": 3,
     "has_committee": false,
     "federal_gap": false,
     "coverage": "Candidate reports only; committee match unresolved",
-    "last_submitted": "2026-06-08",
+    "last_submitted": "2026-09-22",
     "dc_donor_count": 0
   },
   {
@@ -8150,11 +8150,11 @@
     ],
     "transaction_count": 1,
     "donor_count": 1,
-    "report_count": 3,
+    "report_count": 4,
     "has_committee": true,
     "federal_gap": false,
     "coverage": "Matched filings; committee mapping subject to review",
-    "last_submitted": "2026-06-29",
+    "last_submitted": "2026-09-17",
     "dc_donor_count": 0
   },
   {
@@ -8211,11 +8211,11 @@
     ],
     "transaction_count": 2024,
     "donor_count": 919,
-    "report_count": 61,
+    "report_count": 62,
     "has_committee": true,
     "federal_gap": false,
     "coverage": "Matched filings; committee mapping subject to review",
-    "last_submitted": "2026-09-08",
+    "last_submitted": "2026-09-21",
     "dc_donor_count": 30
   },
   {
@@ -8453,7 +8453,7 @@
         "type": "2"
       }
     ],
-    "transaction_count": 44,
+    "transaction_count": 33,
     "donor_count": 11,
     "report_count": 8,
     "has_committee": true,
@@ -8514,14 +8514,14 @@
         "type": "1"
       }
     ],
-    "transaction_count": 1042,
-    "donor_count": 366,
-    "report_count": 49,
+    "transaction_count": 1066,
+    "donor_count": 376,
+    "report_count": 51,
     "has_committee": true,
     "federal_gap": false,
     "coverage": "Matched filings; committee mapping subject to review",
-    "last_submitted": "2026-06-15",
-    "dc_donor_count": 22
+    "last_submitted": "2026-09-21",
+    "dc_donor_count": 23
   },
   {
     "name": "NELSON, NAPOLEON J",
@@ -9074,13 +9074,13 @@
         "type": "1"
       }
     ],
-    "transaction_count": 81,
-    "donor_count": 75,
-    "report_count": 5,
+    "transaction_count": 181,
+    "donor_count": 162,
+    "report_count": 6,
     "has_committee": true,
     "federal_gap": false,
     "coverage": "Matched filings; committee mapping subject to review",
-    "last_submitted": "2026-06-20",
+    "last_submitted": "2026-09-17",
     "dc_donor_count": 0
   },
   {
@@ -9514,11 +9514,11 @@
     ],
     "transaction_count": 87,
     "donor_count": 65,
-    "report_count": 18,
+    "report_count": 19,
     "has_committee": true,
     "federal_gap": false,
     "coverage": "Matched filings; committee mapping subject to review",
-    "last_submitted": "2026-06-18",
+    "last_submitted": "2026-09-21",
     "dc_donor_count": 7
   },
   {
@@ -9634,14 +9634,14 @@
         "type": "1"
       }
     ],
-    "transaction_count": 649,
-    "donor_count": 445,
-    "report_count": 33,
+    "transaction_count": 661,
+    "donor_count": 452,
+    "report_count": 35,
     "has_committee": true,
     "federal_gap": false,
     "coverage": "Matched filings; committee mapping subject to review",
-    "last_submitted": "2026-06-17",
-    "dc_donor_count": 35
+    "last_submitted": "2026-09-22",
+    "dc_donor_count": 36
   },
   {
     "name": "SAMUELSON, STEPHEN P",
@@ -9870,11 +9870,11 @@
     ],
     "transaction_count": 0,
     "donor_count": 0,
-    "report_count": 4,
+    "report_count": 5,
     "has_committee": true,
     "federal_gap": false,
     "coverage": "Matched filings; committee mapping subject to review",
-    "last_submitted": "2026-06-18",
+    "last_submitted": "2026-09-17",
     "dc_donor_count": 0
   },
   {
@@ -10183,13 +10183,13 @@
         "type": "1"
       }
     ],
-    "transaction_count": 0,
-    "donor_count": 0,
-    "report_count": 3,
+    "transaction_count": 1,
+    "donor_count": 1,
+    "report_count": 4,
     "has_committee": false,
     "federal_gap": false,
     "coverage": "Candidate reports only; committee match unresolved",
-    "last_submitted": "2026-06-10",
+    "last_submitted": "2026-09-17",
     "dc_donor_count": 0
   },
   {
@@ -10254,14 +10254,14 @@
         "type": "1"
       }
     ],
-    "transaction_count": 195761,
-    "donor_count": 65467,
-    "report_count": 52,
+    "transaction_count": 234133,
+    "donor_count": 73401,
+    "report_count": 53,
     "has_committee": true,
     "federal_gap": false,
     "coverage": "Matched filings; committee mapping subject to review",
-    "last_submitted": "2026-06-18",
-    "dc_donor_count": 331
+    "last_submitted": "2026-09-22",
+    "dc_donor_count": 388
   },
   {
     "name": "SHUSTERMAN, MELISSA LYNN",
@@ -10447,13 +10447,13 @@
         "type": "2"
       }
     ],
-    "transaction_count": 1859,
-    "donor_count": 701,
-    "report_count": 33,
+    "transaction_count": 1992,
+    "donor_count": 743,
+    "report_count": 34,
     "has_committee": true,
     "federal_gap": false,
     "coverage": "Matched filings; committee mapping subject to review",
-    "last_submitted": "2026-06-17",
+    "last_submitted": "2026-09-22",
     "dc_donor_count": 8
   },
   {
@@ -10620,13 +10620,13 @@
         "type": "1"
       }
     ],
-    "transaction_count": 15,
-    "donor_count": 9,
-    "report_count": 5,
+    "transaction_count": 23,
+    "donor_count": 16,
+    "report_count": 7,
     "has_committee": true,
     "federal_gap": false,
     "coverage": "Matched filings; committee mapping subject to review",
-    "last_submitted": "2026-06-18",
+    "last_submitted": "2026-09-21",
     "dc_donor_count": 0
   },
   {
@@ -10722,13 +10722,13 @@
         "type": "1"
       }
     ],
-    "transaction_count": 44,
-    "donor_count": 40,
-    "report_count": 15,
+    "transaction_count": 56,
+    "donor_count": 48,
+    "report_count": 17,
     "has_committee": true,
     "federal_gap": false,
     "coverage": "Matched filings; committee mapping subject to review",
-    "last_submitted": "2026-06-11",
+    "last_submitted": "2026-09-19",
     "dc_donor_count": 0
   },
   {
@@ -11089,14 +11089,14 @@
         "type": "1"
       }
     ],
-    "transaction_count": 4689,
-    "donor_count": 1694,
-    "report_count": 32,
+    "transaction_count": 4690,
+    "donor_count": 1704,
+    "report_count": 33,
     "has_committee": true,
     "federal_gap": false,
     "coverage": "Matched filings; committee mapping subject to review",
-    "last_submitted": "2026-06-16",
-    "dc_donor_count": 17
+    "last_submitted": "2026-09-09",
+    "dc_donor_count": 18
   },
   {
     "name": "WAGNER, ANDREW",
@@ -11130,14 +11130,14 @@
         "type": "1"
       }
     ],
-    "transaction_count": 103,
-    "donor_count": 96,
-    "report_count": 7,
+    "transaction_count": 158,
+    "donor_count": 136,
+    "report_count": 9,
     "has_committee": true,
     "federal_gap": false,
     "coverage": "Matched filings; committee mapping subject to review",
-    "last_submitted": "2026-06-15",
-    "dc_donor_count": 0
+    "last_submitted": "2026-09-20",
+    "dc_donor_count": 1
   },
   {
     "name": "WAGNER, JUSTIN REED",
@@ -11211,13 +11211,13 @@
         "type": "1"
       }
     ],
-    "transaction_count": 10,
-    "donor_count": 9,
-    "report_count": 21,
+    "transaction_count": 12,
+    "donor_count": 12,
+    "report_count": 23,
     "has_committee": true,
     "federal_gap": false,
     "coverage": "Matched filings; committee mapping subject to review",
-    "last_submitted": "2026-06-10",
+    "last_submitted": "2026-09-21",
     "dc_donor_count": 0
   },
   {
@@ -11892,13 +11892,13 @@
         "type": "1"
       }
     ],
-    "transaction_count": 24,
-    "donor_count": 23,
-    "report_count": 4,
+    "transaction_count": 83,
+    "donor_count": 65,
+    "report_count": 7,
     "has_committee": true,
     "federal_gap": false,
     "coverage": "Matched filings; committee mapping subject to review",
-    "last_submitted": "2026-06-15",
+    "last_submitted": "2026-09-19",
     "dc_donor_count": 0
   },
   {
@@ -12004,14 +12004,14 @@
         "type": "1"
       }
     ],
-    "transaction_count": 701,
-    "donor_count": 446,
-    "report_count": 40,
+    "transaction_count": 775,
+    "donor_count": 492,
+    "report_count": 41,
     "has_committee": true,
     "federal_gap": false,
     "coverage": "Matched filings; committee mapping subject to review",
-    "last_submitted": "2026-08-04",
-    "dc_donor_count": 24
+    "last_submitted": "2026-09-22",
+    "dc_donor_count": 27
   },
   {
     "name": "ZANGARI, JOHN R",

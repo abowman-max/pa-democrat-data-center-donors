@@ -12,6 +12,8 @@ For each matched filer, election year, and reporting cycle, the import selects t
 
 Every nonzero contribution slot in a selected row becomes a separate transaction. The source trail retains the archive year, member filename, CSV record number, amount-slot number, filer ID, and report ID. One malformed 2023 CSV row was excluded. Three entries with blank section codes remain visible as `Unknown` rather than being forced into cash or in-kind.
 
+The September 25, 2026 DOS archive is compared with the previously published September 15 snapshot. A multiset comparison uses filer, report year, cycle, section, contributor, city, state, occupation, employer, contribution date, amount, and description. It excludes report IDs, submission timestamps, CSV row numbers, and amount-slot positions. This preserves duplicate contributions while preventing unchanged entries in amended or reordered filings from being marked new. The current snapshot contains 39,763 additions and omits 98 entries found in the prior snapshot. The website labels current additions; it does not continue displaying superseded or removed entries.
+
 ## Candidate and committee mapping
 
 Candidate names were normalized for punctuation and reviewed against DOS filer names. Candidate filer records and clearly attributable political committees were mapped explicitly in `research/candidate_mappings.json`. Ambiguous committees were not assigned. Coverage notices identify candidates with no matched reports, candidate-only matches, or federal-office gaps.

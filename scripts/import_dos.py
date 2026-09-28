@@ -10,6 +10,7 @@ import csv
 import datetime
 import decimal
 import io
+import hashlib
 import json
 import pathlib
 import zipfile
@@ -18,11 +19,38 @@ import zipfile
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 
 
+def transaction_signature(row):
+    """Stable identity for snapshot comparison, excluding report and row numbers."""
+    fields = (
+        "filer", "year", "cycle", "section", "donor", "city", "state",
+        "occupation", "employer", "date", "cents", "description",
+    )
+    return tuple(str(row.get(field, "")).strip().upper() for field in fields)
+
+
+def file_sha256(path):
+    digest = hashlib.sha256()
+    with path.open("rb") as handle:
+        for chunk in iter(lambda: handle.read(1024 * 1024), b""):
+            digest.update(chunk)
+    return digest.hexdigest()
+
+
 def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument("input_dir", type=pathlib.Path, help="Folder containing 2016.zip through 2026.zip")
     parser.add_argument("work_dir", nargs="?", default="work", type=pathlib.Path)
+    parser.add_argument("--replace-2026", type=pathlib.Path, help="Use this ZIP instead of input_dir/2026.zip")
+    parser.add_argument("--baseline-work", type=pathlib.Path, help="Prior normalized work folder used to mark newly added contributions")
+    parser.add_argument("--baseline-archive", type=pathlib.Path, help="Prior 2026 ZIP retained for comparison provenance")
+    parser.add_argument("--baseline-label", default="previous DOS snapshot")
     return parser.parse_args()
+
+
+def archive_for_year(args, year):
+    if year == 2026 and args.replace_2026:
+        return args.replace_2026
+    return args.input_dir / f"{year}.zip"
 
 
 def main():
@@ -31,12 +59,22 @@ def main():
     candidates = json.loads((ROOT / "research/candidate_mappings.json").read_text())
     (args.work_dir / "mapped.json").write_text(json.dumps(candidates, indent=2))
 
+    baseline_counts = collections.Counter()
+    baseline_total = 0
+    if args.baseline_work:
+        baseline_path = args.baseline_work / "transactions.jsonl"
+        with baseline_path.open() as baseline_file:
+            for line in baseline_file:
+                baseline_row = json.loads(line)
+                baseline_counts[transaction_signature(baseline_row)] += 1
+                baseline_total += 1
+
     filer_ids = {m["filer_id"].upper() for c in candidates for m in c["filers"]}
     filer_rows = []
     contribution_members = {}
 
     for year in range(2016, 2027):
-        archive_path = args.input_dir / f"{year}.zip"
+        archive_path = archive_for_year(args, year)
         with zipfile.ZipFile(archive_path) as archive:
             names = archive.namelist()
             filer_name = next(n for n in names if "filer_" in n.lower())
@@ -70,11 +108,12 @@ def main():
     counts = []
     errors = []
     sections = collections.Counter()
+    new_by_year = collections.Counter()
     output_path = args.work_dir / "transactions.jsonl"
     with output_path.open("w") as output:
         for year in range(2016, 2027):
             input_rows = selected_rows = transactions = malformed = 0
-            archive_path = args.input_dir / f"{year}.zip"
+            archive_path = archive_for_year(args, year)
             with zipfile.ZipFile(archive_path) as archive:
                 member = contribution_members[year]
                 with archive.open(member) as raw:
@@ -130,6 +169,14 @@ def main():
                                 "record": record_number,
                                 "slot": slot,
                             }
+                            signature = transaction_signature(item)
+                            if baseline_counts[signature]:
+                                baseline_counts[signature] -= 1
+                                item["new_since_previous"] = False
+                            else:
+                                item["new_since_previous"] = bool(args.baseline_work)
+                                if args.baseline_work:
+                                    new_by_year[year] += 1
                             output.write(json.dumps(item, separators=(",", ":")) + "\n")
                             transactions += 1
                             sections[row["Section"]] += 1
@@ -149,6 +196,22 @@ def main():
         "superseded": superseded,
         "sections": dict(sections),
         "errors": errors,
+        "comparison": {
+            "baseline_label": args.baseline_label,
+            "baseline_transactions": baseline_total,
+            "new_transactions": sum(new_by_year.values()),
+            "new_by_year": dict(sorted(new_by_year.items())),
+            "removed_transactions": sum(baseline_counts.values()),
+            "method": "Multiset comparison of normalized transaction fields; report IDs and CSV row numbers are excluded.",
+            "current_archive": {
+                "file": str(archive_for_year(args, 2026)),
+                "sha256": file_sha256(archive_for_year(args, 2026)),
+            },
+            "baseline_archive": {
+                "file": str(args.baseline_archive),
+                "sha256": file_sha256(args.baseline_archive),
+            } if args.baseline_archive else None,
+        } if args.baseline_work else None,
     }, indent=2))
     print(json.dumps({
         "selected_reports": len(selected_rows),

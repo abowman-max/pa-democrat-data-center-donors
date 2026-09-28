@@ -8,8 +8,9 @@ In the explorer:
 
 1. Choose an **office** and **All candidates** to compare the full 2026 roster for that office by contribution count and amount.
 2. Choose **All donors** or **Data-center connections** to change the comparison totals, then optionally narrow by year, contribution type, or connection basis.
-3. Sort either table by amount, contribution count, or name; then select **View donors** beside a candidate to drill into that candidate's donor records and source links.
-4. Use **Export table** or **Export contributions** to download the current filtered report.
+3. Use **Update status → New since Sept. 15** to isolate records added in the latest Pennsylvania DOS archive. New donor rows and individual transactions are also badged.
+4. Sort either table by amount, contribution count, or name; then select **View donors** beside a candidate to drill into that candidate's donor records and source links.
+5. Use **Export table** or **Export contributions** to download the current filtered report. Candidate-level exports include the update filter, and contribution exports include a `new_since_previous` column.
 
 The website files are in `docs/`. A root `index.html` also redirects to that folder for hosts that publish the repository root.
 
@@ -29,9 +30,10 @@ The site has no server, database, tracking code, or build step. All published re
 ## What is included
 
 - 230 unique candidate, office, and district records from the supplied 2026 workbook.
-- 601,558 itemized contribution entries: 390,126 from the supplied Pennsylvania archives and 211,432 official FEC Schedule A contribution records.
+- 641,223 itemized contribution entries: 429,791 from the supplied Pennsylvania archives and 211,432 official FEC Schedule A contribution records.
+- 39,763 current Pennsylvania entries marked new relative to the September 15 snapshot; 98 prior entries disappeared from the current export, generally because a selected report was amended or replaced.
 - 44 reviewed organizations with documented data-center connections, plus the House and Senate HB 952 Yea-voter registries.
-- 8,652 contribution-to-connection associations identified by an exact reviewed name or reported-employer alias. This includes 2,702 contribution entries from clearly identified lawmakers and campaign committees that voted for HB 952.
+- 8,762 contribution-to-connection associations identified by an exact reviewed name or reported-employer alias.
 - Direct links from each contribution to its campaign-finance source and to the evidence supporting each documented connection.
 - A downloadable evidence packet in `docs/evidence/source-packet.zip`.
 
@@ -59,6 +61,7 @@ See [METHODOLOGY.md](METHODOLOGY.md) for the selection rules, evidence standard,
 - `research/fec_candidate_mappings.json` — reviewed FEC candidate IDs and official authorized-committee linkages.
 - `research/coverage_gaps.json` — candidates whose coverage is known to be incomplete.
 - `research/superseded_reports.json` — excluded older versions of reports.
+- `research/refresh-2026-09-25.json` — archive hashes, before/after counts, comparison method, and quality results for this refresh.
 - `scripts/` — repeatable import, build, split, and validation utilities.
 
 ## Refresh from DOS archives
@@ -74,6 +77,18 @@ python3 scripts/split_large_data.py
 python3 scripts/build_office_summary.py
 python3 scripts/validate.py
 ```
+
+For a new 2026-only DOS ZIP, retain the existing 2016–2025 archive folder and import into a new work folder before replacing the current snapshot:
+
+```bash
+python3 scripts/import_dos.py "/path/to/Raw Data (DOS)" work-next \
+  --replace-2026 "/path/to/latest/2026.zip" \
+  --baseline-work work \
+  --baseline-archive "/path/to/prior/2026.zip" \
+  --baseline-label "prior published DOS snapshot"
+```
+
+The comparison uses a multiset of normalized contribution fields and excludes report IDs and CSV row numbers. This prevents unchanged contributions in amended or reordered reports from being labeled new. Validate `work-next/quality.json`, rebuild the site from `work-next`, and only then promote it as the next baseline.
 
 The reviewed filer mappings and entity aliases remain explicit files under `research/`; refreshes do not silently invent new candidate or data-center matches. Review them when the candidate roster or source evidence changes.
 

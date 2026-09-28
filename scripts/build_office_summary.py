@@ -44,6 +44,7 @@ def main():
                 "contributor" in fields,
                 "employer" in fields,
                 bool(row.get("lead")),
+                bool(row.get("new_since_previous")),
             )
             buckets[key][0] += 1
             buckets[key][1] += row["cents"]
@@ -63,6 +64,7 @@ def main():
                     "dc_contributor": key[2],
                     "dc_employer": key[3],
                     "lead": key[4],
+                    "new_since_previous": key[5],
                     "count": totals[0],
                     "cents": totals[1],
                 }

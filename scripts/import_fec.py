@@ -218,6 +218,7 @@ def parse_committee(path, entities):
                 "filing_url": filing_url, "file_number": row.get("file_number") or "",
                 "entity_type": row.get("entity_type_desc") or row.get("entity_type") or "",
                 "memo_text": row.get("memo_text") or "", "connections": associations, "lead": lead,
+                "new_since_previous": False,
             })
     return committee_name, rows
 
